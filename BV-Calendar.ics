@@ -297,20 +297,21 @@ SUMMARY:Brazos County medical examiner's office expected to begin autopsies
 DESCRIPTION:County's first ME office expected to begin autopsies; Dr. Jennifer Dierksen takes the ME title Oct. 1. Tracker BV-0090. Confidence: Reported.
 END:VEVENT
 BEGIN:VEVENT
-UID:bvbrief-20260721-brazoscc@brazosvalley
-DTSTAMP:20260719T230000Z
-DTSTART;VALUE=DATE:20260721
-SUMMARY:Brazos County Commissioners Court regular meeting
-LOCATION:Bryan\, TX
-DESCRIPTION:Per the county's adopted twice-monthly schedule (first and third Tuesdays). Agenda posts on the PrimeGov portal.
+UID:bvbrief-20260728-brazoscc@brazosvalley
+DTSTAMP:20260726T000000Z
+DTSTART:20260728T100000
+DTEND:20260728T120000
+SUMMARY:Brazos County Commissioners Court - Regular Agenda Session
+LOCATION:Brazos County Administration Building\, 200 S. Texas Ave.\, Suite 106\, Bryan\, TX
+DESCRIPTION:Corrects a prior edition's July 21 listing\, which traced to the county's published schedule; the county's live PrimeGov portal shows no meeting was held July 21 and this is the court's next posted meeting. 19 consent items and 14 regular agenda items\, including Resolution 26-014 committing $20 million of General Fund balance for deferred maintenance\, plus an executive session naming the RELLIS Campus Data and Research Center tax-abatement agreement. Confirmed by direct read of the posted agenda\, July 26\, 2026.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260804-brazoscc@brazosvalley
-DTSTAMP:20260719T230000Z
+DTSTAMP:20260726T000000Z
 DTSTART;VALUE=DATE:20260804
-SUMMARY:Brazos County Commissioners Court regular meeting
+SUMMARY:Brazos County Commissioners Court regular meeting (unconfirmed)
 LOCATION:Bryan\, TX
-DESCRIPTION:Per the county's adopted twice-monthly schedule. Agenda posts on the PrimeGov portal.
+DESCRIPTION:Carried from the county's published semimonthly schedule; NOT independently confirmed on the live PrimeGov portal\, which as of July 26\, 2026 lists only the July 28 meeting under Current And Upcoming Meetings. A prior edition's identically-sourced July 21 listing proved incorrect. Verify against the portal closer to the date before relying on this entry.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260818-brazoscc-abatement@brazosvalley
@@ -414,5 +415,45 @@ DTSTART;VALUE=DATE:20260821
 SUMMARY:Deadline: BTU solar customers sign new interconnection agreements
 LOCATION:Bryan\, TX
 DESCRIPTION:Existing BTU solar customers must sign the new Distributed Generation Interconnection Agreement to keep selling excess power to the grid\, per KBTX reporting.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260727-bryanparking@brazosvalley
+DTSTAMP:20260726T000000Z
+DTSTART;VALUE=DATE:20260727
+SUMMARY:Bryan Historic Downtown two-hour parking limit takes effect
+LOCATION:Main St. between 23rd and 28th St.\, Bryan\, TX
+DESCRIPTION:139 marked spaces\, enforced 8 a.m.-5 p.m. weekdays; first-offense fine $35\, per WTAW reporting.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260728-csisd-special@brazosvalley
+DTSTAMP:20260726T000000Z
+DTSTART:20260728T170000
+SUMMARY:College Station ISD Board of Trustees - special-called meeting
+LOCATION:Central Training Room\, 1812 Welsh Ave.\, College Station\, TX
+DESCRIPTION:Per CSISD's own Agendas\, Minutes & Meeting Videos posting\, checked July 26\, 2026.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260801-txipark-construction@brazosvalley
+DTSTAMP:20260726T000000Z
+DTSTART;VALUE=DATE:20260801
+SUMMARY:Construction begins - Texas Independence Park at Midtown
+LOCATION:College Station\, TX
+DESCRIPTION:Following the July 23 council approval of a $7\,052\,842 Skanska construction contract; targeted public opening December 2027\, per KBTX reporting.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260817-esd3-election-deadline@brazosvalley
+DTSTAMP:20260726T000000Z
+DTSTART;VALUE=DATE:20260817
+SUMMARY:Brazos County ESD No. 3 deadline to call a November election
+LOCATION:Brazos County\, TX
+DESCRIPTION:Deadline for ESD No. 3 to decide whether to call an ESD election for the November 4 uniform election date\, per the district's own meeting notice.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260818-esd3-meeting@brazosvalley
+DTSTAMP:20260726T000000Z
+DTSTART;VALUE=DATE:20260818
+SUMMARY:Brazos County ESD No. 3 regular meeting - FY2027 budget presentation
+LOCATION:Precinct 3 Volunteer Fire Department Station No. 2\, 5725 Elmo Weedon Rd.\, College Station\, TX
+DESCRIPTION:FY2027 budget formally presented\, per the district's own meeting notice and standing calendar.
 END:VEVENT
 END:VCALENDAR
