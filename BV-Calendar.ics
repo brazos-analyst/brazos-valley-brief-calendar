@@ -298,12 +298,12 @@ DESCRIPTION:County's first ME office expected to begin autopsies; Dr. Jennifer D
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260728-brazoscc@brazosvalley
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260728T100000
 DTEND:20260728T120000
-SUMMARY:Brazos County Commissioners Court - Regular Agenda Session
+SUMMARY:Brazos County Commissioners Court - Regular Agenda Session (HELD)
 LOCATION:Brazos County Administration Building\, 200 S. Texas Ave.\, Suite 106\, Bryan\, TX
-DESCRIPTION:Corrects a prior edition's July 21 listing\, which traced to the county's published schedule; the county's live PrimeGov portal shows no meeting was held July 21 and this is the court's next posted meeting. 19 consent items and 14 regular agenda items\, including Resolution 26-014 committing $20 million of General Fund balance for deferred maintenance\, plus an executive session naming the RELLIS Campus Data and Research Center tax-abatement agreement. Confirmed by direct read of the posted agenda\, July 26\, 2026.
+DESCRIPTION:HELD July 28: Resolution 26-014 adopted\, committing $20 million of General Fund balance to deferred maintenance (reported unanimous). Executive session named the RELLIS Campus Data and Research Center tax-abatement agreement as a subject of negotiation; no vote or outcome disclosed in open session. A $221\,203 change order and four road/paving contracts also approved. Tracker BV-0122\, BV-0123\, BV-0124.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260804-brazoscc@brazosvalley
@@ -426,11 +426,11 @@ DESCRIPTION:139 marked spaces\, enforced 8 a.m.-5 p.m. weekdays; first-offense f
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260728-csisd-special@brazosvalley
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260728T170000
-SUMMARY:College Station ISD Board of Trustees - special-called meeting
+SUMMARY:College Station ISD Board of Trustees - special-called meeting (HELD)
 LOCATION:Central Training Room\, 1812 Welsh Ave.\, College Station\, TX
-DESCRIPTION:Per CSISD's own Agendas\, Minutes & Meeting Videos posting\, checked July 26\, 2026.
+DESCRIPTION:HELD July 28. Per this project's own meeting-video pre-screen (PENDING confirmation against posted minutes): board voted to rescind an April 21 non-renewal action (7-0)\, accepted the superintendent's evaluation (7-0)\, and approved superintendent contract amendments (4-3). Tracker BV-0125.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260801-txipark-construction@brazosvalley
@@ -455,5 +455,13 @@ DTSTART;VALUE=DATE:20260818
 SUMMARY:Brazos County ESD No. 3 regular meeting - FY2027 budget presentation
 LOCATION:Precinct 3 Volunteer Fire Department Station No. 2\, 5725 Elmo Weedon Rd.\, College Station\, TX
 DESCRIPTION:FY2027 budget formally presented\, per the district's own meeting notice and standing calendar.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260810-bryanisd@brazosvalley
+DTSTAMP:20260802T000000Z
+DTSTART:20260810T180000
+SUMMARY:Bryan ISD Board of Trustees - workshop and special meeting
+LOCATION:801 S. Ennis St.\, Bryan\, TX
+DESCRIPTION:Per Community Impact\, July 23\, 2026\, quoting the district's own stated meeting plans. Not yet independently confirmed against a posted agenda.
 END:VEVENT
 END:VCALENDAR
