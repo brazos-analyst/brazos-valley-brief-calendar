@@ -116,16 +116,16 @@ UID:bvbrief-20260817-bryanisd-vatre@brazosvalley
 DTSTAMP:20260615T120000Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-SUMMARY:Bryan ISD deadline to decide on November VATRE
-DESCRIPTION:Board must decide whether to call a November rate election. Confidence: Reported.
+SUMMARY:Bryan ISD VATRE decision (RESOLVED 8/10 - election called)
+DESCRIPTION:Board acted early: on Aug. 10 trustees unanimously called the Nov. 3 VATRE\, ahead of this Aug. 17 deadline. Tracker BV-0127.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260830-bvgcd-dfc@brazosvalley
 DTSTAMP:20260615T120000Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:Brazos Valley GCD - Desired Future Conditions comment period closes (approx.)
-DESCRIPTION:End of the 90-day DFC comment window opened June 1. Date approximate. Confidence: Reported.
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Brazos Valley GCD - Desired Future Conditions public comment period closes
+DESCRIPTION:Public comment on the proposed desired future conditions (from the Aug. 13 hearing) closes Aug. 31; comments to the district. Tracker BV-0140.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260729-btd@brazosvalley
@@ -244,8 +244,8 @@ UID:bvbrief-20260813-cscouncil-rockprairie@brazosvalley
 DTSTAMP:20260705T220000Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-SUMMARY:College Station City Council - Rock Prairie Rd West final action + NNR/voter-approval tax rates submitted (date subject to change)
-DESCRIPTION:Final Council vote on the CPA2026-000004 comp-plan amendment and REZ2026-000009 rezoning at 2950 Rock Prairie Road West, per the P&Z Commission's July 2 recommendation; date subject to change per the agenda. Tracker BV-0075/BV-0076. Confidence: Reported.
+SUMMARY:College Station City Council regular meeting (HELD 8/13)
+DESCRIPTION:HELD 8/13: rezoned ~12.43 ac at 2950 Rock Prairie Road West (Rural to MF; FLU to Urban Residential) and ~35 ac at Victoria/William D. Fitch (MF/MH/NAP) for housing; set a proposed $0.530254 tax rate (hearing/adoption Aug. 27); FY27 budget $576.35M incl. a $55M public works facility; ordered a Nov. 3 general + Place 5 special election. Tracker BV-0134 to BV-0139.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260713-cscouncil-budgetws@brazosvalley
@@ -371,9 +371,9 @@ UID:bvbrief-20260811-bryancouncil@brazosvalley
 DTSTAMP:20260719T230000Z
 DTSTART;TZID=America/Chicago:20260811T140000
 DTEND;TZID=America/Chicago:20260811T190000
-SUMMARY:Bryan City Council regular meeting
+SUMMARY:Bryan City Council regular meeting (HELD)
 LOCATION:Bryan\, TX
-DESCRIPTION:Per the City of Bryan public-meetings schedule (2:00-7:00 p.m.).
+DESCRIPTION:HELD 8/11: ordered a Nov. 3 charter-amendment election on Texas Avenue median removal (citizen petition); set a proposed FY27 tax rate not to exceed $0.624000 (hearing Sept. 8); approved a ~$4.7M BCBS health-plan admin contract\, city vehicles (~$2.1M)\, the Brazos County Health District FY27 budget\, an Atmos Mid-Tex settlement\, and two MF rezonings. Tracker BV-0128 to BV-0133.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260824-bryanbsc@brazosvalley
@@ -388,9 +388,9 @@ BEGIN:VEVENT
 UID:bvbrief-20260813-bvgcd-board@brazosvalley
 DTSTAMP:20260719T230000Z
 DTSTART;TZID=America/Chicago:20260813T140000
-SUMMARY:Brazos Valley Groundwater Conservation District regular board meeting
+SUMMARY:Brazos Valley Groundwater Conservation District regular board meeting (HELD)
 LOCATION:District Office\, 112 W. 3rd St.\, Hearne
-DESCRIPTION:Per the district's posted meeting listing. Likely venue for action following the July 15 public rules hearing.
+DESCRIPTION:HELD 8/13: public hearing on proposed desired future conditions to 2080; landowners urged capping the Simsboro Aquifer decline at 283 ft vs. the proposed 330 ft; GM Alan Day said the region is nowhere near running out of water; public comment open through Aug. 31. Tracker BV-0140.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260818-blinn@brazosvalley
@@ -460,8 +460,25 @@ BEGIN:VEVENT
 UID:bvbrief-20260810-bryanisd@brazosvalley
 DTSTAMP:20260802T000000Z
 DTSTART:20260810T180000
-SUMMARY:Bryan ISD Board of Trustees - workshop and special meeting
+SUMMARY:Bryan ISD Board of Trustees - workshop and special meeting (HELD)
 LOCATION:801 S. Ennis St.\, Bryan\, TX
-DESCRIPTION:Per Community Impact\, July 23\, 2026\, quoting the district's own stated meeting plans. Not yet independently confirmed against a posted agenda.
+DESCRIPTION:HELD 8/10: trustees unanimously called a Nov. 3 Voter-Approval Tax Rate Election (2-cent M&O increase\, $0.6769 to $0.6968; est. ~$5.5M/yr recurring\, not recaptured). Tracker BV-0127.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260908-bryancouncil-taxrate@brazosvalley
+DTSTAMP:20260816T220000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Bryan City Council - FY2027 tax-rate public hearing
+LOCATION:Bryan\, TX
+DESCRIPTION:Public hearing on the proposed FY2027 tax rate (not to exceed $0.624000 per $100)\, set Aug. 11. Tracker BV-0129. Confidence: Reported.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261103-uniform-election@brazosvalley
+DTSTAMP:20260816T220000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:November 3 uniform election - Brazos Valley items
+DESCRIPTION:Ballot includes the Bryan ISD VATRE (2-cent M&O increase)\; the City of Bryan charter amendment on Texas Avenue median removal\; the Bryan general municipal election (Mayor\, SMD 1 & 2)\; and the College Station general and special election (Mayor\, Places 1 & 2\, and the Place 5 unexpired term). Tracker BV-0128/BV-0130/BV-0137. Confidence: Reported.
 END:VEVENT
 END:VCALENDAR
