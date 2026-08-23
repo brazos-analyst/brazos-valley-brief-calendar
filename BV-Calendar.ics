@@ -28,8 +28,8 @@ DTSTAMP:20260615T120000Z
 DTSTART;TZID=America/Chicago:20260615T180000
 DTEND;TZID=America/Chicago:20260615T193000
 SUMMARY:Bryan ISD budget & proposed tax-rate public meeting (HELD)
-LOCATION:BISD Administration Building, 801 S. Ennis St., Bryan
-DESCRIPTION:HELD 6/15: board unanimously adopted a balanced FY2026-27 budget with no tax-rate change and no use of reserves; also named 3 principals. Tracker BV-0049/0050.
+LOCATION:BISD Administration Building\, 801 S. Ennis St.\, Bryan
+DESCRIPTION:HELD 6/15: board unanimously adopted a balanced FY2026-27 budget with no tax-rate change and no use of reserves\; also named 3 principals. Tracker BV-0049/0050.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260616-csisd-ws@brazosvalley
@@ -37,7 +37,7 @@ DTSTAMP:20260615T120000Z
 DTSTART;TZID=America/Chicago:20260616T170000
 DTEND;TZID=America/Chicago:20260616T190000
 SUMMARY:College Station ISD Board workshop
-LOCATION:CSISD Boardroom, 1812 Welsh Ave., College Station
+LOCATION:CSISD Boardroom\, 1812 Welsh Ave.\, College Station
 DESCRIPTION:Board workshop. Confidence: Official.
 END:VEVENT
 BEGIN:VEVENT
@@ -46,17 +46,17 @@ DTSTAMP:20260615T120000Z
 DTSTART;TZID=America/Chicago:20260616T190000
 DTEND;TZID=America/Chicago:20260616T210000
 SUMMARY:College Station ISD Board regular meeting (HELD)
-LOCATION:CSISD Boardroom, 1812 Welsh Ave., College Station
-DESCRIPTION:HELD 6/16: executive session on the Intruder Detection Audit & Corrective Action Plan (Govt Code 551.076); no open-session action. Tracker BV-0051.
+LOCATION:CSISD Boardroom\, 1812 Welsh Ave.\, College Station
+DESCRIPTION:HELD 6/16: executive session on the Intruder Detection Audit & Corrective Action Plan (Govt Code 551.076)\; no open-session action. Tracker BV-0051.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260616-wellborn@brazosvalley
 DTSTAMP:20260615T120000Z
 DTSTART;TZID=America/Chicago:20260616T180000
 DTEND;TZID=America/Chicago:20260616T193000
-SUMMARY:Wellborn SUD board meeting (HELD; impact fees still pending)
-LOCATION:4118 Greens Prairie Rd, Wellborn
-DESCRIPTION:HELD 6/16: no impact-fee outcome posted as of 6/21; item carried forward for a mid-summer decision. Confidence: Reported.
+SUMMARY:Wellborn SUD board meeting (HELD\; impact fees still pending)
+LOCATION:4118 Greens Prairie Rd\, Wellborn
+DESCRIPTION:HELD 6/16: no impact-fee outcome posted as of 6/21\; item carried forward for a mid-summer decision. Confidence: Reported.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260616-blinn@brazosvalley
@@ -65,7 +65,7 @@ DTSTART;TZID=America/Chicago:20260616T100000
 DTEND;TZID=America/Chicago:20260616T120000
 SUMMARY:Blinn College Trustees meeting (HELD)
 LOCATION:Blinn Brenham Campus
-DESCRIPTION:HELD 6/16: enrollment report (Bryan campus 3,764, down from 12,000+ a decade ago; dual-credit +22%); trustee requested a Bryan-campus workshop. FY27 budget adoption not separately confirmed. Tracker BV-0052.
+DESCRIPTION:HELD 6/16: enrollment report (Bryan campus 3\,764\, down from 12\,000+ a decade ago\; dual-credit +22%)\; trustee requested a Bryan-campus workshop. FY27 budget adoption not separately confirmed. Tracker BV-0052.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260618-mpo@brazosvalley
@@ -82,7 +82,7 @@ DTSTAMP:20260615T120000Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
 SUMMARY:College Station City Council regular meeting (HELD)
-DESCRIPTION:HELD 6/25: consent agenda approved unanimously (Axon $401K body-camera change order; Barron/Decatur signal $372,872; polymer $315K); 2.5-hr Northgate workshop, no vote; CIP update (69 projects, $474.6M). Tracker BV-0061..BV-0065. Confidence: Reported.
+DESCRIPTION:HELD 6/25: consent agenda approved unanimously (Axon $401K body-camera change order\; Barron/Decatur signal $372\,872\; polymer $315K)\; 2.5-hr Northgate workshop\, no vote\; CIP update (69 projects\, $474.6M). Tracker BV-0061..BV-0065. Confidence: Reported.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260623-brazoscc@brazosvalley
@@ -90,8 +90,8 @@ DTSTAMP:20260615T120000Z
 DTSTART;TZID=America/Chicago:20260623T100000
 DTEND;TZID=America/Chicago:20260623T120000
 SUMMARY:Brazos County Commissioners Court (HELD)
-LOCATION:Brazos County Administration Building, 200 S. Texas Ave., Bryan
-DESCRIPTION:HELD 6/23: adopted a countywide AI policy (human oversight); acted on a compensation study (up to 10% for ~17% below-market staff); Public Defender quarterly report (612 clients, 4 of 10 attorney vacancies); screwworm public-awareness response. Tracker BV-0066..BV-0069. Confidence: Reported.
+LOCATION:Brazos County Administration Building\, 200 S. Texas Ave.\, Bryan
+DESCRIPTION:HELD 6/23: adopted a countywide AI policy (human oversight)\; acted on a compensation study (up to 10% for ~17% below-market staff)\; Public Defender quarterly report (612 clients\, 4 of 10 attorney vacancies)\; screwworm public-awareness response. Tracker BV-0066..BV-0069. Confidence: Reported.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260625-canyonvillage@brazosvalley
@@ -99,7 +99,7 @@ DTSTAMP:20260615T120000Z
 DTSTART;TZID=America/Chicago:20260625T140000
 DTEND;TZID=America/Chicago:20260625T150000
 SUMMARY:Canyon Village Apartments temporary-injunction hearing
-LOCATION:472nd District Court, Brazos County
+LOCATION:472nd District Court\, Brazos County
 DESCRIPTION:Hearing on whether the city can resume enforcing its vacate order. Confidence: Reported.
 END:VEVENT
 BEGIN:VEVENT
@@ -108,7 +108,7 @@ DTSTAMP:20260615T120000Z
 DTSTART;TZID=America/Chicago:20260709T140000
 DTEND;TZID=America/Chicago:20260709T160000
 SUMMARY:Brazos Valley Groundwater Conservation District - Public Rules Hearing + board meeting
-LOCATION:112 W. 3rd St., Hearne
+LOCATION:112 W. 3rd St.\, Hearne
 DESCRIPTION:Rules hearing tied to the permit moratorium. Confidence: Official.
 END:VEVENT
 BEGIN:VEVENT
@@ -121,11 +121,11 @@ DESCRIPTION:Board acted early: on Aug. 10 trustees unanimously called the Nov. 3
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260830-bvgcd-dfc@brazosvalley
-DTSTAMP:20260615T120000Z
+DTSTAMP:20260823T120000Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Brazos Valley GCD - Desired Future Conditions public comment period closes
-DESCRIPTION:Public comment on the proposed desired future conditions (from the Aug. 13 hearing) closes Aug. 31; comments to the district. Tracker BV-0140.
+DESCRIPTION:Close of the Brazos Valley Groundwater Conservation District public comment period on proposed desired future conditions. The district's own site describes a comment period commencing June 1\, 2026 and does not state an Aug. 31 close date\; the Aug. 31 date comes from prior news reporting. Confirm with the district before relying on it.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260729-btd@brazosvalley
@@ -133,7 +133,7 @@ DTSTAMP:20260621T220000Z
 DTSTART;TZID=America/Chicago:20260729T103000
 DTEND;TZID=America/Chicago:20260729T120000
 SUMMARY:Brazos Transit District quarterly board meeting
-LOCATION:Brazos Transit District, Bryan
+LOCATION:Brazos Transit District\, Bryan
 DESCRIPTION:Quarterly board meeting. Confidence: Official.
 END:VEVENT
 BEGIN:VEVENT
@@ -143,7 +143,7 @@ DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:Texas A&M System Board of Regents regular meeting
 LOCATION:College Station
-DESCRIPTION:Regular meeting; watch for RELLIS energy and capital items. Confidence: Official.
+DESCRIPTION:Regular meeting\; watch for RELLIS energy and capital items. Confidence: Official.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260626-bryancouncil-special@brazosvalley
@@ -152,7 +152,7 @@ DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Bryan City Council special meeting (HELD)
 LOCATION:City of Bryan
-DESCRIPTION:HELD 6/26: approved a replacement RELLIS data-center tax abatement (~$298M / 5 jobs; 10-yr min PILOT ~$14.9M); unanimous among 4 of 7 present; new owner has a September construction deadline. Tracker BV-0059. Confidence: Reported.
+DESCRIPTION:HELD 6/26: approved a replacement RELLIS data-center tax abatement (~$298M / 5 jobs\; 10-yr min PILOT ~$14.9M)\; unanimous among 4 of 7 present\; new owner has a September construction deadline. Tracker BV-0059. Confidence: Reported.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260706-cscouncil-budget@brazosvalley
@@ -168,8 +168,8 @@ DTSTAMP:20260712T220000Z
 DTSTART;TZID=America/Chicago:20260707T100000
 DTEND;TZID=America/Chicago:20260707T120000
 SUMMARY:Brazos County Commissioners Court regular meeting (HELD)
-LOCATION:Brazos County Administration Building, 200 S. Texas Ave., Bryan
-DESCRIPTION:HELD 7/7: posted agenda included a $1M GME wire transfer, Public Defender Oversight Board nominations, a Whitley Penn audit engagement, an Old Reliance Rd Phase II change order ($239,747.41), FY27 vehicle purchases, interim comp-guideline additions, MUD No. 7 (Live Oaks Ranch) development agreement, and a $1,825,000 real-property purchase; outcomes pending minutes. Tracker BV-0091. Confidence: Official (agenda).
+LOCATION:Brazos County Administration Building\, 200 S. Texas Ave.\, Bryan
+DESCRIPTION:HELD 7/7: posted agenda included a $1M GME wire transfer\, Public Defender Oversight Board nominations\, a Whitley Penn audit engagement\, an Old Reliance Rd Phase II change order ($239\,747.41)\, FY27 vehicle purchases\, interim comp-guideline additions\, MUD No. 7 (Live Oaks Ranch) development agreement\, and a $1\,825\,000 real-property purchase\; outcomes pending minutes. Tracker BV-0091. Confidence: Official (agenda).
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260709-cscouncil@brazosvalley
@@ -177,7 +177,7 @@ DTSTAMP:20260712T220000Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SUMMARY:College Station City Council regular meeting (HELD)
-DESCRIPTION:HELD 7/9: consent agenda approved unanimously (~$1.22M, 6 items); after public hearings, unanimously changed land use (7.2 ac) and zoning (8 ac) on Harvey Mitchell Pkwy S to enable multi-family housing; approved 4-3 a Wolf Pen Creek UDO vehicle-sales amendment (Smith, Wright, Shafer opposed). Tracker BV-0083..BV-0085. Confidence: Official (city record).
+DESCRIPTION:HELD 7/9: consent agenda approved unanimously (~$1.22M\, 6 items)\; after public hearings\, unanimously changed land use (7.2 ac) and zoning (8 ac) on Harvey Mitchell Pkwy S to enable multi-family housing\; approved 4-3 a Wolf Pen Creek UDO vehicle-sales amendment (Smith\, Wright\, Shafer opposed). Tracker BV-0083..BV-0085. Confidence: Official (city record).
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260912-rellis-construction@brazosvalley
@@ -185,7 +185,7 @@ DTSTAMP:20260628T220000Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:RELLIS data-center construction deadline (September)
-DESCRIPTION:Per the 6/26 replacement abatement, the new owner must begin construction by September. Exact day within the month not specified. Confidence: Reported.
+DESCRIPTION:Per the 6/26 replacement abatement\, the new owner must begin construction by September. Exact day within the month not specified. Confidence: Reported.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261012-bryanfire-4896@brazosvalley
@@ -201,8 +201,8 @@ DTSTAMP:20260705T220000Z
 DTSTART;TZID=America/Chicago:20260630T180000
 DTEND;TZID=America/Chicago:20260630T200000
 SUMMARY:BVGCD "Aquifers 101" public meeting (HELD)
-LOCATION:Brazos Center, Bryan
-DESCRIPTION:HELD 6/30: 80+ attendees; GM Alan Day said the region will not run out of water; district manages 8 aquifers, monitors 224 wells; questions on data-center/SpaceX Terafab water use. Informational, no vote. Tracker BV-0073. Confidence: Reported.
+LOCATION:Brazos Center\, Bryan
+DESCRIPTION:HELD 6/30: 80+ attendees\; GM Alan Day said the region will not run out of water\; district manages 8 aquifers\, monitors 224 wells\; questions on data-center/SpaceX Terafab water use. Informational\, no vote. Tracker BV-0073. Confidence: Reported.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260702-cspz@brazosvalley
@@ -210,8 +210,8 @@ DTSTAMP:20260705T220000Z
 DTSTART;TZID=America/Chicago:20260702T180000
 DTEND;TZID=America/Chicago:20260702T210000
 SUMMARY:College Station Planning & Zoning Commission (HELD)
-LOCATION:1101 Texas Avenue, College Station
-DESCRIPTION:HELD 7/2: recommended a Comprehensive Plan amendment and rezoning for 12.43 ac at 2950 Rock Prairie Road West (final Council action Aug. 13); approved a preliminary plan and waivers for Krenek Tap Townhomes. Tracker BV-0075..BV-0077. Confidence: Official (agenda); outcomes pending minutes.
+LOCATION:1101 Texas Avenue\, College Station
+DESCRIPTION:HELD 7/2: recommended a Comprehensive Plan amendment and rezoning for 12.43 ac at 2950 Rock Prairie Road West (final Council action Aug. 13)\; approved a preliminary plan and waivers for Krenek Tap Townhomes. Tracker BV-0075..BV-0077. Confidence: Official (agenda)\; outcomes pending minutes.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260702-bryanpz@brazosvalley
@@ -219,8 +219,8 @@ DTSTAMP:20260705T220000Z
 DTSTART;TZID=America/Chicago:20260702T180000
 DTEND;TZID=America/Chicago:20260702T210000
 SUMMARY:Bryan Planning and Zoning Commission (HELD)
-LOCATION:300 S. Texas Ave., Bryan
-DESCRIPTION:HELD 7/2: considered rezonings RZ26-12 (Viva Rd) and RZ26-13 (405 Dunn St), and driveway variances PV26-16 (104 N. Randolph Ave) and PV26-17 (3909 Aspen St). Tracker BV-0078..BV-0081. Confidence: Official (agenda); outcomes pending minutes.
+LOCATION:300 S. Texas Ave.\, Bryan
+DESCRIPTION:HELD 7/2: considered rezonings RZ26-12 (Viva Rd) and RZ26-13 (405 Dunn St)\, and driveway variances PV26-16 (104 N. Randolph Ave) and PV26-17 (3909 Aspen St). Tracker BV-0078..BV-0081. Confidence: Official (agenda)\; outcomes pending minutes.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260715-wellbornsud@brazosvalley
@@ -228,8 +228,8 @@ DTSTAMP:20260705T220000Z
 DTSTART;TZID=America/Chicago:20260715T180000
 DTEND;TZID=America/Chicago:20260715T193000
 SUMMARY:Wellborn SUD board meeting
-LOCATION:4118 Greens Prairie Rd, Wellborn
-DESCRIPTION:Water impact-fee decision remains pending; carried forward with no posted outcome. Confidence: Reported.
+LOCATION:4118 Greens Prairie Rd\, Wellborn
+DESCRIPTION:Water impact-fee decision remains pending\; carried forward with no posted outcome. Confidence: Reported.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260717-schulmanloan@brazosvalley
@@ -237,7 +237,7 @@ DTSTAMP:20260705T220000Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:Schulman's Movie Bowl Grille $2M loan due to City of Bryan
-DESCRIPTION:2024 Chapter 380 promissory note comes due; city documents describe the project as already in default on lease requirements. Tracker BV-0074. Confidence: Reported.
+DESCRIPTION:2024 Chapter 380 promissory note comes due\; city documents describe the project as already in default on lease requirements. Tracker BV-0074. Confidence: Reported.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260813-cscouncil-rockprairie@brazosvalley
@@ -245,7 +245,7 @@ DTSTAMP:20260705T220000Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
 SUMMARY:College Station City Council regular meeting (HELD 8/13)
-DESCRIPTION:HELD 8/13: rezoned ~12.43 ac at 2950 Rock Prairie Road West (Rural to MF; FLU to Urban Residential) and ~35 ac at Victoria/William D. Fitch (MF/MH/NAP) for housing; set a proposed $0.530254 tax rate (hearing/adoption Aug. 27); FY27 budget $576.35M incl. a $55M public works facility; ordered a Nov. 3 general + Place 5 special election. Tracker BV-0134 to BV-0139.
+DESCRIPTION:HELD 8/13: rezoned ~12.43 ac at 2950 Rock Prairie Road West (Rural to MF\; FLU to Urban Residential) and ~35 ac at Victoria/William D. Fitch (MF/MH/NAP) for housing\; set a proposed $0.530254 tax rate (hearing/adoption Aug. 27)\; FY27 budget $576.35M incl. a $55M public works facility\; ordered a Nov. 3 general + Place 5 special election. Tracker BV-0134 to BV-0139.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260713-cscouncil-budgetws@brazosvalley
@@ -253,7 +253,7 @@ DTSTAMP:20260712T220000Z
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260716
 SUMMARY:College Station City Council FY2027 budget workshops (HELD July 13-14)
-DESCRIPTION:In-depth workshops on the proposed FY2027 budget, July 13-15 (Mon-Wed). Confidence: Official (city record).
+DESCRIPTION:In-depth workshops on the proposed FY2027 budget\, July 13-15 (Mon-Wed). Confidence: Official (city record).
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260714-brazoscc-special@brazosvalley
@@ -261,8 +261,8 @@ DTSTAMP:20260712T220000Z
 DTSTART;TZID=America/Chicago:20260714T100000
 DTEND;TZID=America/Chicago:20260714T110000
 SUMMARY:Brazos County Commissioners Court - Special Called Session (payment of claims)
-LOCATION:Brazos County Administration Building, 200 S. Texas Ave., Bryan
-DESCRIPTION:Special Called Session, payment of claims. Confidence: Official (posted agenda).
+LOCATION:Brazos County Administration Building\, 200 S. Texas Ave.\, Bryan
+DESCRIPTION:Special Called Session\, payment of claims. Confidence: Official (posted agenda).
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260714-btu-bryancouncil@brazosvalley
@@ -286,7 +286,7 @@ DTSTAMP:20260712T220000Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:Brazos County medical examiner's office - public tours
-DESCRIPTION:Public tours of the county's new medical examiner's office, off E. 29th St., Bryan. Tracker BV-0090. Confidence: Reported.
+DESCRIPTION:Public tours of the county's new medical examiner's office\, off E. 29th St.\, Bryan. Tracker BV-0090. Confidence: Reported.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260901-me-opening@brazosvalley
@@ -294,7 +294,7 @@ DTSTAMP:20260712T220000Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Brazos County medical examiner's office expected to begin autopsies
-DESCRIPTION:County's first ME office expected to begin autopsies; Dr. Jennifer Dierksen takes the ME title Oct. 1. Tracker BV-0090. Confidence: Reported.
+DESCRIPTION:County's first ME office expected to begin autopsies\; Dr. Jennifer Dierksen takes the ME title Oct. 1. Tracker BV-0090. Confidence: Reported.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260728-brazoscc@brazosvalley
@@ -303,7 +303,7 @@ DTSTART:20260728T100000
 DTEND:20260728T120000
 SUMMARY:Brazos County Commissioners Court - Regular Agenda Session (HELD)
 LOCATION:Brazos County Administration Building\, 200 S. Texas Ave.\, Suite 106\, Bryan\, TX
-DESCRIPTION:HELD July 28: Resolution 26-014 adopted\, committing $20 million of General Fund balance to deferred maintenance (reported unanimous). Executive session named the RELLIS Campus Data and Research Center tax-abatement agreement as a subject of negotiation; no vote or outcome disclosed in open session. A $221\,203 change order and four road/paving contracts also approved. Tracker BV-0122\, BV-0123\, BV-0124.
+DESCRIPTION:HELD July 28: Resolution 26-014 adopted\, committing $20 million of General Fund balance to deferred maintenance (reported unanimous). Executive session named the RELLIS Campus Data and Research Center tax-abatement agreement as a subject of negotiation\; no vote or outcome disclosed in open session. A $221\,203 change order and four road/paving contracts also approved. Tracker BV-0122\, BV-0123\, BV-0124.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260804-brazoscc@brazosvalley
@@ -311,15 +311,15 @@ DTSTAMP:20260726T000000Z
 DTSTART;VALUE=DATE:20260804
 SUMMARY:Brazos County Commissioners Court regular meeting (unconfirmed)
 LOCATION:Bryan\, TX
-DESCRIPTION:Carried from the county's published semimonthly schedule; NOT independently confirmed on the live PrimeGov portal\, which as of July 26\, 2026 lists only the July 28 meeting under Current And Upcoming Meetings. A prior edition's identically-sourced July 21 listing proved incorrect. Verify against the portal closer to the date before relying on this entry.
+DESCRIPTION:Carried from the county's published semimonthly schedule\; NOT independently confirmed on the live PrimeGov portal\, which as of July 26\, 2026 lists only the July 28 meeting under Current And Upcoming Meetings. A prior edition's identically-sourced July 21 listing proved incorrect. Verify against the portal closer to the date before relying on this entry.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260818-brazoscc-abatement@brazosvalley
-DTSTAMP:20260719T230000Z
+DTSTAMP:20260823T120000Z
 DTSTART;TZID=America/Chicago:20260818T100000
-SUMMARY:Brazos County Commissioners Court - RELLIS tax-abatement assignment consideration
+SUMMARY:(HELD) Brazos County Commissioners Court - RELLIS tax-abatement assignment approved
 LOCATION:Commissioners Courtroom\, 200 S. Texas Ave. Suite 106\, Bryan
-DESCRIPTION:Consideration of an amendment assigning the RELLIS Campus Data and Research Center tax abatement agreement (April 29\, 2025) to ThisWay\, Global\, Inc. Noticed under Tax Code Sec. 312.207 on July 17\, 2026. Venue per the notice; the county has announced meeting-location changes during building renovation\, so confirm the venue on the posted agenda.
+DESCRIPTION:Held Aug. 18\, 2026. The court approved a first amendment transferring the RELLIS Campus Data and Research Center tax abatement to ThisWay Global\, Inc.\; voice vote with no opposition on the record\, reported by KBTX as 4-0 with one commissioner absent. Tracker BV-0141.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260805-harvey-ws1@brazosvalley
@@ -373,7 +373,7 @@ DTSTART;TZID=America/Chicago:20260811T140000
 DTEND;TZID=America/Chicago:20260811T190000
 SUMMARY:Bryan City Council regular meeting (HELD)
 LOCATION:Bryan\, TX
-DESCRIPTION:HELD 8/11: ordered a Nov. 3 charter-amendment election on Texas Avenue median removal (citizen petition); set a proposed FY27 tax rate not to exceed $0.624000 (hearing Sept. 8); approved a ~$4.7M BCBS health-plan admin contract\, city vehicles (~$2.1M)\, the Brazos County Health District FY27 budget\, an Atmos Mid-Tex settlement\, and two MF rezonings. Tracker BV-0128 to BV-0133.
+DESCRIPTION:HELD 8/11: ordered a Nov. 3 charter-amendment election on Texas Avenue median removal (citizen petition)\; set a proposed FY27 tax rate not to exceed $0.624000 (hearing Sept. 8)\; approved a ~$4.7M BCBS health-plan admin contract\, city vehicles (~$2.1M)\, the Brazos County Health District FY27 budget\, an Atmos Mid-Tex settlement\, and two MF rezonings. Tracker BV-0128 to BV-0133.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260824-bryanbsc@brazosvalley
@@ -390,15 +390,15 @@ DTSTAMP:20260719T230000Z
 DTSTART;TZID=America/Chicago:20260813T140000
 SUMMARY:Brazos Valley Groundwater Conservation District regular board meeting (HELD)
 LOCATION:District Office\, 112 W. 3rd St.\, Hearne
-DESCRIPTION:HELD 8/13: public hearing on proposed desired future conditions to 2080; landowners urged capping the Simsboro Aquifer decline at 283 ft vs. the proposed 330 ft; GM Alan Day said the region is nowhere near running out of water; public comment open through Aug. 31. Tracker BV-0140.
+DESCRIPTION:HELD 8/13: public hearing on proposed desired future conditions to 2080\; landowners urged capping the Simsboro Aquifer decline at 283 ft vs. the proposed 330 ft\; GM Alan Day said the region is nowhere near running out of water\; public comment open through Aug. 31. Tracker BV-0140.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260818-blinn@brazosvalley
-DTSTAMP:20260719T230000Z
+DTSTAMP:20260823T120000Z
 DTSTART;TZID=America/Chicago:20260818T100000
-SUMMARY:Blinn College Board of Trustees regular meeting
+SUMMARY:(HELD) Blinn College Board of Trustees regular meeting
 LOCATION:Administration Building\, Third Floor Board Room\, Brenham campus
-DESCRIPTION:Per the board's posted meeting dates.
+DESCRIPTION:Held Aug. 18\, 2026. Trustees authorized administrators to seek proposals for furniture\, fixtures and equipment for the first Waller Campus academic building. Tracker BV-0154.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260827-cscouncil-adoption@brazosvalley
@@ -410,11 +410,11 @@ DESCRIPTION:Public hearing on the tax rate\, then scheduled adoption of the FY20
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260821-btu-signby@brazosvalley
-DTSTAMP:20260719T230000Z
+DTSTAMP:20260823T120000Z
 DTSTART;VALUE=DATE:20260821
 SUMMARY:Deadline: BTU solar customers sign new interconnection agreements
 LOCATION:Bryan\, TX
-DESCRIPTION:Existing BTU solar customers must sign the new Distributed Generation Interconnection Agreement to keep selling excess power to the grid\, per KBTX reporting.
+DESCRIPTION:Deadline reported in prior coverage for existing Bryan Texas Utilities solar customers to sign new interconnection agreements. No outlet reported the outcome inside the Aug. 17-23 window\; carried forward as unresolved.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260727-bryanparking@brazosvalley
@@ -422,7 +422,7 @@ DTSTAMP:20260726T000000Z
 DTSTART;VALUE=DATE:20260727
 SUMMARY:Bryan Historic Downtown two-hour parking limit takes effect
 LOCATION:Main St. between 23rd and 28th St.\, Bryan\, TX
-DESCRIPTION:139 marked spaces\, enforced 8 a.m.-5 p.m. weekdays; first-offense fine $35\, per WTAW reporting.
+DESCRIPTION:139 marked spaces\, enforced 8 a.m.-5 p.m. weekdays\; first-offense fine $35\, per WTAW reporting.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260728-csisd-special@brazosvalley
@@ -438,7 +438,7 @@ DTSTAMP:20260726T000000Z
 DTSTART;VALUE=DATE:20260801
 SUMMARY:Construction begins - Texas Independence Park at Midtown
 LOCATION:College Station\, TX
-DESCRIPTION:Following the July 23 council approval of a $7\,052\,842 Skanska construction contract; targeted public opening December 2027\, per KBTX reporting.
+DESCRIPTION:Following the July 23 council approval of a $7\,052\,842 Skanska construction contract\; targeted public opening December 2027\, per KBTX reporting.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260817-esd3-election-deadline@brazosvalley
@@ -450,11 +450,11 @@ DESCRIPTION:Deadline for ESD No. 3 to decide whether to call an ESD election for
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260818-esd3-meeting@brazosvalley
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260823T120000Z
 DTSTART;VALUE=DATE:20260818
-SUMMARY:Brazos County ESD No. 3 regular meeting - FY2027 budget presentation
+SUMMARY:(NOTICED) Brazos County ESD No. 3 monthly meeting - FY2027 budget proposal
 LOCATION:Precinct 3 Volunteer Fire Department Station No. 2\, 5725 Elmo Weedon Rd.\, College Station\, TX
-DESCRIPTION:FY2027 budget formally presented\, per the district's own meeting notice and standing calendar.
+DESCRIPTION:Noticed for Aug. 18\, 2026. The district notice states certified property values and no-new-revenue calculations were not yet available and that no taxpayer impact statement could be provided. No minutes posted. Tracker BV-0145.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260810-bryanisd@brazosvalley
@@ -462,7 +462,7 @@ DTSTAMP:20260802T000000Z
 DTSTART:20260810T180000
 SUMMARY:Bryan ISD Board of Trustees - workshop and special meeting (HELD)
 LOCATION:801 S. Ennis St.\, Bryan\, TX
-DESCRIPTION:HELD 8/10: trustees unanimously called a Nov. 3 Voter-Approval Tax Rate Election (2-cent M&O increase\, $0.6769 to $0.6968; est. ~$5.5M/yr recurring\, not recaptured). Tracker BV-0127.
+DESCRIPTION:HELD 8/10: trustees unanimously called a Nov. 3 Voter-Approval Tax Rate Election (2-cent M&O increase\, $0.6769 to $0.6968\; est. ~$5.5M/yr recurring\, not recaptured). Tracker BV-0127.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260908-bryancouncil-taxrate@brazosvalley
@@ -480,5 +480,113 @@ DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:November 3 uniform election - Brazos Valley items
 DESCRIPTION:Ballot includes the Bryan ISD VATRE (2-cent M&O increase)\; the City of Bryan charter amendment on Texas Avenue median removal\; the Bryan general municipal election (Mayor\, SMD 1 & 2)\; and the College Station general and special election (Mayor\, Places 1 & 2\, and the Place 5 unexpired term). Tracker BV-0128/BV-0130/BV-0137. Confidence: Reported.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260825-bryancouncil-budget@brazosvalley
+DTSTAMP:20260823T120000Z
+DTSTART;TZID=America/Chicago:20260825T173000
+DTEND;TZID=America/Chicago:20260825T190000
+SUMMARY:Bryan City Council - FY2027 budget public hearing
+LOCATION:Municipal Office Building\, 300 S. Texas Ave.\, Bryan
+DESCRIPTION:Public hearing on the proposed FY2027 budget\, which the city notice says would raise total property taxes by $3\,092\,366 or 4.68 percent. Source: WTAW\, Aug. 20\, 2026. Tracker BV-0148.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260825-healthdistrict-special@brazosvalley
+DTSTAMP:20260823T120000Z
+DTSTART;TZID=America/Chicago:20260825T100000
+DTEND;TZID=America/Chicago:20260825T110000
+SUMMARY:Brazos County Health District - special Board of Health meeting
+LOCATION:Brazos County Health District
+DESCRIPTION:Special meeting noticed to convene in closed executive session under Government Code section 551.074 regarding district staff concerns. Source: district agenda. Tracker BV-0153.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260827-tamus-regents-special@brazosvalley
+DTSTAMP:20260823T120000Z
+DTSTART;TZID=America/Chicago:20260827T100000
+DTEND;TZID=America/Chicago:20260827T120000
+SUMMARY:Texas A&M System Board of Regents - special called meeting
+LOCATION:Board Meeting Room\, Board of Regents Annex\, Gene Stallings Blvd.\, College Station
+DESCRIPTION:Special-called telephonic board meeting. Source: Board of Regents posted notice. Tracker BV-0159.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260829-me-tours2@brazosvalley
+DTSTAMP:20260823T120000Z
+DTSTART;TZID=America/Chicago:20260829T100000
+DTEND;TZID=America/Chicago:20260829T140000
+SUMMARY:Brazos County medical examiner's office - second public tour
+LOCATION:3037 E. 29th St.\, Bryan
+DESCRIPTION:Second public tour of the new medical examiner's office before it begins receiving cases Sept. 1. Source: WTAW\, Aug. 18\, 2026. Tracker BV-0151.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260901-brazoscc-budgethearing@brazosvalley
+DTSTAMP:20260823T120000Z
+DTSTART;TZID=America/Chicago:20260901T083000
+DTEND;TZID=America/Chicago:20260901T091500
+SUMMARY:Brazos County Commissioners Court - FY2026-27 budget public hearing
+LOCATION:Brazos County Administration Building\, 200 S. Texas Ave.\, Bryan
+DESCRIPTION:Public hearing on the proposed $482\,336\,738 FY2026-27 county budget. Source: WTAW\, Aug. 18\, 2026. Tracker BV-0142.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260901-brazoscc-taxhearing@brazosvalley
+DTSTAMP:20260823T120000Z
+DTSTART;TZID=America/Chicago:20260901T091500
+DTEND;TZID=America/Chicago:20260901T100000
+SUMMARY:Brazos County Commissioners Court - 2026 tax rate public hearing
+LOCATION:Brazos County Administration Building\, 200 S. Texas Ave.\, Bryan
+DESCRIPTION:Public hearing on the proposed 2026 tax increase\; proposed rate $0.448474 per $100 against a no-new-revenue rate of $0.414658. Source: county posted notice and agenda. Tracker BV-0142.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260901-brazoscc-regular@brazosvalley
+DTSTAMP:20260823T120000Z
+DTSTART;TZID=America/Chicago:20260901T100000
+DTEND;TZID=America/Chicago:20260901T120000
+SUMMARY:Brazos County Commissioners Court - regular session (budget and tax rate adoption)
+LOCATION:Brazos County Administration Building\, 200 S. Texas Ave.\, Bryan
+DESCRIPTION:Regular session at which the FY2026-27 budget and the 2026 tax rate can be adopted. Source: WTAW\, Aug. 18\, 2026. Tracker BV-0142.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260907-texasave-closure@brazosvalley
+DTSTAMP:20260823T120000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Texas Ave. southbound outside lane closes (27th to 28th St.\, Bryan)
+LOCATION:Texas Ave. between 27th and 28th St.\, Bryan
+DESCRIPTION:Lane closure for the Brazos County Administration Building remodel\, expected to remain through the end of 2026\; may affect a Brazos Transit bus stop. Source: Brazos County traffic alert\, Aug. 20\, 2026. Tracker BV-0152.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260910-bvgcd-board@brazosvalley
+DTSTAMP:20260823T120000Z
+DTSTART;TZID=America/Chicago:20260910T140000
+DTEND;TZID=America/Chicago:20260910T160000
+SUMMARY:Brazos Valley Groundwater Conservation District - regular board meeting
+LOCATION:Brazos Valley Groundwater Conservation District\, Hearne
+DESCRIPTION:Next regular board meeting per the district's own posted schedule. Tracker BV-0140.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260914-bryanisd-board@brazosvalley
+DTSTAMP:20260823T120000Z
+DTSTART;TZID=America/Chicago:20260914T180000
+DTEND;TZID=America/Chicago:20260914T200000
+SUMMARY:Bryan ISD Board of Trustees - employee health plan rates expected
+LOCATION:Bryan ISD\, 801 S. Ennis St.\, Bryan
+DESCRIPTION:Final employee health plan rates and plan changes expected\, per the district CFO. Source: Community Impact\, Aug. 18\, 2026. Tracker BV-0146.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260914-esd4-next@brazosvalley
+DTSTAMP:20260823T120000Z
+DTSTART;TZID=America/Chicago:20260914T174500
+DTEND;TZID=America/Chicago:20260914T190000
+SUMMARY:Brazos County ESD No. 4 - next regular meeting (date to confirm)
+LOCATION:Station 3\, 6357 Raymond Stotzer Pkwy.\, College Station
+DESCRIPTION:The district's Aug. 17 agenda lists the next regular meeting as Monday\, Sept. 14\, 2026\, while the district homepage lists Sept. 15. Confirm with the district before attending. Tracker BV-0144.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260824-cs-restaurantweek@brazosvalley
+DTSTAMP:20260823T120000Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260831
+SUMMARY:College Station Restaurant Week
+LOCATION:College Station
+DESCRIPTION:Visit College Station's first Restaurant Week\, Aug. 24-30\, with eight restaurants and 10 percent of participating sales to the Brazos Valley Food Bank. Source: KBTX\, Aug. 21\, 2026. Tracker BV-0161.
 END:VEVENT
 END:VCALENDAR
