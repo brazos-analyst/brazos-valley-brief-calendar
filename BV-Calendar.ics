@@ -377,12 +377,12 @@ DESCRIPTION:HELD 8/11: ordered a Nov. 3 charter-amendment election on Texas Aven
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260824-bryanbsc@brazosvalley
-DTSTAMP:20260719T230000Z
+DTSTAMP:20260830T120000Z
 DTSTART;TZID=America/Chicago:20260824T173000
 DTEND;TZID=America/Chicago:20260824T183000
-SUMMARY:Bryan Building & Standards Commission
+SUMMARY:Bryan Building & Standards Commission (HELD\, dispositions not posted)
 LOCATION:Bryan\, TX
-DESCRIPTION:Per the City of Bryan public-meetings schedule.
+DESCRIPTION:Held Aug. 24\, 2026. Eight public hearings noticed on structures proposed to be declared unsafe and ordered vacated\, repaired\, secured or demolished. No dispositions have been posted. Next regular meeting Oct. 26\, 2026. Tracker BV-0181.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260813-bvgcd-board@brazosvalley
@@ -402,11 +402,11 @@ DESCRIPTION:Held Aug. 18\, 2026. Trustees authorized administrators to seek prop
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260827-cscouncil-adoption@brazosvalley
-DTSTAMP:20260719T230000Z
+DTSTAMP:20260830T120000Z
 DTSTART;VALUE=DATE:20260827
-SUMMARY:College Station City Council - tax-rate hearing + FY2027 budget and tax-rate adoption
+SUMMARY:College Station City Council - FY2027 budget and tax rate adopted (HELD)
 LOCATION:College Station City Hall
-DESCRIPTION:Public hearing on the tax rate\, then scheduled adoption of the FY2027 budget and tax rate\, per the city's posted budget timeline.
+DESCRIPTION:Held Aug. 27\, 2026. Budget adopted 6-1 at a total of $576\,387\,341 (Yancy against)\; ratification of the property tax revenue increase 5-2 (Yancy and White against)\; 2026 tax rate of $0.530254 per $100 adopted 5-2\; FY27 fee schedule adopted unanimously. Council also directed staff toward Bass Pro Shops and Corinth Group agreements and toward terminating the Plug and Play funding agreement. Tracker BV-0166 through BV-0175.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260821-btu-signby@brazosvalley
@@ -466,12 +466,12 @@ DESCRIPTION:HELD 8/10: trustees unanimously called a Nov. 3 Voter-Approval Tax R
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260908-bryancouncil-taxrate@brazosvalley
-DTSTAMP:20260816T220000Z
+DTSTAMP:20260830T120000Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-SUMMARY:Bryan City Council - FY2027 tax-rate public hearing
+SUMMARY:Bryan City Council - FY2027 tax rate public hearing and first reading
 LOCATION:Bryan\, TX
-DESCRIPTION:Public hearing on the proposed FY2027 tax rate (not to exceed $0.624000 per $100)\, set Aug. 11. Tracker BV-0129. Confidence: Reported.
+DESCRIPTION:Public hearing on the proposed FY2027 tax rate and first reading of the tax rate ordinance\, per KBTX reporting the city schedule. The rate is expected to remain $0.624000 per $100. The second and final reading plus ratification is set for a Sept. 15 special meeting. Tracker BV-0176.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261103-uniform-election@brazosvalley
@@ -483,30 +483,30 @@ DESCRIPTION:Ballot includes the Bryan ISD VATRE (2-cent M&O increase)\; the City
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260825-bryancouncil-budget@brazosvalley
-DTSTAMP:20260823T120000Z
+DTSTAMP:20260830T120000Z
 DTSTART;TZID=America/Chicago:20260825T173000
 DTEND;TZID=America/Chicago:20260825T190000
-SUMMARY:Bryan City Council - FY2027 budget public hearing
+SUMMARY:Bryan City Council - FY2027 budget public hearing (HELD)
 LOCATION:Municipal Office Building\, 300 S. Texas Ave.\, Bryan
-DESCRIPTION:Public hearing on the proposed FY2027 budget\, which the city notice says would raise total property taxes by $3\,092\,366 or 4.68 percent. Source: WTAW\, Aug. 20\, 2026. Tracker BV-0148.
+DESCRIPTION:Held Aug. 25\, 2026 at a special meeting. Public hearing plus first reading only of an ordinance adopting a $569\,013\,800 FY2027 budget\; approved unanimously on first reading. The budget itself was not adopted and the tax rate was not taken up. No one signed up to speak. Tracker BV-0176 through BV-0179.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260825-healthdistrict-special@brazosvalley
-DTSTAMP:20260823T120000Z
+DTSTAMP:20260830T120000Z
 DTSTART;TZID=America/Chicago:20260825T100000
 DTEND;TZID=America/Chicago:20260825T110000
-SUMMARY:Brazos County Health District - special Board of Health meeting
+SUMMARY:Brazos County Health District - special Board of Health meeting (outcome not disclosed)
 LOCATION:Brazos County Health District
-DESCRIPTION:Special meeting noticed to convene in closed executive session under Government Code section 551.074 regarding district staff concerns. Source: district agenda. Tracker BV-0153.
+DESCRIPTION:Noticed for Aug. 25\, 2026 at 10 a.m. to convene in closed executive session under Government Code section 551.074 regarding district staff concerns and to take action in open session afterward if necessary. No minutes posted and no outcome disclosed. Tracker BV-0195.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260827-tamus-regents-special@brazosvalley
-DTSTAMP:20260823T120000Z
+DTSTAMP:20260830T120000Z
 DTSTART;TZID=America/Chicago:20260827T100000
 DTEND;TZID=America/Chicago:20260827T120000
-SUMMARY:Texas A&M System Board of Regents - special called meeting
+SUMMARY:Texas A&M System Board of Regents - special called telephonic meeting (HELD)
 LOCATION:Board Meeting Room\, Board of Regents Annex\, Gene Stallings Blvd.\, College Station
-DESCRIPTION:Special-called telephonic board meeting. Source: Board of Regents posted notice. Tracker BV-0159.
+DESCRIPTION:Held Aug. 27\, 2026. Regents unanimously approved Jerry R. Strawser as interim provost and executive vice president effective Sept. 1 through May 2027\, and certified system compliance with state law on tenured faculty evaluations\, research security and DEI ahead of a Sept. 1 deadline. All five agenda items passed unanimously. Tracker BV-0192.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260829-me-tours2@brazosvalley
@@ -573,12 +573,12 @@ DESCRIPTION:Final employee health plan rates and plan changes expected\, per the
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260914-esd4-next@brazosvalley
-DTSTAMP:20260823T120000Z
+DTSTAMP:20260830T120000Z
 DTSTART;TZID=America/Chicago:20260914T174500
 DTEND;TZID=America/Chicago:20260914T190000
-SUMMARY:Brazos County ESD No. 4 - next regular meeting (date to confirm)
+SUMMARY:Brazos County ESD No. 4 - next regular meeting (superseded by a Sept. 15 posting)
 LOCATION:Station 3\, 6357 Raymond Stotzer Pkwy.\, College Station
-DESCRIPTION:The district's Aug. 17 agenda lists the next regular meeting as Monday\, Sept. 14\, 2026\, while the district homepage lists Sept. 15. Confirm with the district before attending. Tracker BV-0144.
+DESCRIPTION:The district's Aug. 17 agenda listed the next regular meeting as Monday\, Sept. 14\, 2026. The district homepage now posts a public meeting to vote on the proposed tax rate on Tuesday\, Sept. 15\, 2026 at 5:45 p.m. and lists Sept. 15 as the next regular meeting date. See the Sept. 15 entry. Tracker BV-0194.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260824-cs-restaurantweek@brazosvalley
@@ -588,5 +588,104 @@ DTEND;VALUE=DATE:20260831
 SUMMARY:College Station Restaurant Week
 LOCATION:College Station
 DESCRIPTION:Visit College Station's first Restaurant Week\, Aug. 24-30\, with eight restaurants and 10 percent of participating sales to the Brazos Valley Food Bank. Source: KBTX\, Aug. 21\, 2026. Tracker BV-0161.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260903-bryan-pz@brazosvalley
+DTSTAMP:20260830T120000Z
+DTSTART;TZID=America/Chicago:20260903T170000
+DTEND;TZID=America/Chicago:20260903T190000
+SUMMARY:Bryan Planning and Zoning Commission - workshop and regular meeting
+LOCATION:Bryan Municipal Building\, 300 S. Texas Ave.\, Bryan
+DESCRIPTION:Workshop and regular meetings listed on the City of Bryan meeting portal. Times shown are approximate\; confirm against the posted agenda. Tracker BV-0176.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260908-esd3-taxrate@brazosvalley
+DTSTAMP:20260830T120000Z
+DTSTART;TZID=America/Chicago:20260908T180000
+DTEND;TZID=America/Chicago:20260908T193000
+SUMMARY:Brazos County ESD No. 3 - tax rate meeting and public hearing
+LOCATION:Precinct 3 VFD Station 2\, 5725 Elmo Weedon Road\, College Station
+DESCRIPTION:Public hearing and meeting to adopt the FY2027 budget and the district's 2026 maintenance and operations\, debt service and total tax rates. Proposed 2026 rate $0.026642 per $100 against a no-new-revenue rate of $0.024269. Tracker BV-0194.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260910-cscouncil@brazosvalley
+DTSTAMP:20260830T120000Z
+DTSTART;TZID=America/Chicago:20260910T180000
+DTEND;TZID=America/Chicago:20260910T220000
+SUMMARY:College Station City Council - regular meeting
+LOCATION:City Hall Council Chambers\, 1101 Texas Ave.\, College Station
+DESCRIPTION:The city's own account of the Aug. 27 meeting states the council meets again Thursday\, Sept. 10. Tracker BV-0166.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260915-bryancouncil-special@brazosvalley
+DTSTAMP:20260830T120000Z
+DTSTART;TZID=America/Chicago:20260915T170000
+DTEND;TZID=America/Chicago:20260915T190000
+SUMMARY:Bryan City Council - special meeting\, tax rate second reading and ratification
+LOCATION:Bryan Municipal Building\, 300 S. Texas Ave.\, Bryan
+DESCRIPTION:Second and final reading of the FY2027 tax rate ordinance and ratification\, per KBTX reporting the city schedule and the city meeting portal. Time shown is approximate\; confirm against the posted agenda. Tracker BV-0176.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260915-csisd-board@brazosvalley
+DTSTAMP:20260830T120000Z
+DTSTART;TZID=America/Chicago:20260915T190000
+DTEND;TZID=America/Chicago:20260915T213000
+SUMMARY:College Station ISD Board of Trustees - 2026 tax rate adoption
+LOCATION:CSISD Board Room\, 1812 Welsh Ave.\, College Station
+DESCRIPTION:Adoption of the district's 2026 tax rate\, deferred from August. Staff presented a proposed total rate of $0.9702 per $100. The board is also expected to take up the central administration building and the Senate Bill 12 compliance report. Tracker BV-0183\, BV-0187\, BV-0188.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260915-brazoscc-lppf@brazosvalley
+DTSTAMP:20260830T120000Z
+DTSTART;TZID=America/Chicago:20260915T093000
+DTEND;TZID=America/Chicago:20260915T103000
+SUMMARY:Brazos County Commissioners Court - Local Provider Participation Fund public hearing
+LOCATION:Brazos County Administration Building\, 200 S. Texas Ave.\, Suite 106\, Bryan
+DESCRIPTION:Public hearing on the Local Provider Participation Fund\, including mandatory payments from nonpublic hospitals for October 1\, 2026 through September 30\, 2027\, under Chapter 296 of the Health and Safety Code. Tracker BV-0194.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260915-esd4-taxvote@brazosvalley
+DTSTAMP:20260830T120000Z
+DTSTART;TZID=America/Chicago:20260915T174500
+DTEND;TZID=America/Chicago:20260915T190000
+SUMMARY:Brazos County ESD No. 4 - public meeting to vote on the proposed tax rate
+LOCATION:Brazos County ESD No. 4 Station 3\, 6357 Raymond Stotzer Pkwy.\, College Station
+DESCRIPTION:Posted on the district's homepage as a public meeting to vote on the proposed tax rate\, and listed there as the next regular meeting date. Supersedes the Sept. 14 date carried on the district's August agenda. Tracker BV-0194.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260924-cscouncil-basspro@brazosvalley
+DTSTAMP:20260830T120000Z
+DTSTART;TZID=America/Chicago:20260924T180000
+DTEND;TZID=America/Chicago:20260924T220000
+SUMMARY:College Station City Council - Bass Pro and Corinth Group agreements due back
+LOCATION:City Hall Council Chambers\, 1101 Texas Ave.\, College Station
+DESCRIPTION:Council directed staff on Aug. 27 to bring the real estate contracts and economic development agreements with Bass Pro Shops and The Corinth Group back for a vote no later than this meeting\, with incentives made public beforehand. Tracker BV-0170.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260928-btu-board@brazosvalley
+DTSTAMP:20260830T120000Z
+DTSTART;TZID=America/Chicago:20260928T160000
+DTEND;TZID=America/Chicago:20260928T180000
+SUMMARY:Bryan Texas Utilities Board of Directors - regular meeting
+LOCATION:BTU Administrative Conference Room\, 2611 N. Earl Rudder Fwy.\, Bryan
+DESCRIPTION:Next regular BTU board meeting per the City of Bryan meeting portal. Tracker BV-0182.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260930-csisd-sb12@brazosvalley
+DTSTAMP:20260830T120000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Deadline: CSISD Senate Bill 12 compliance certification to the Texas Education Agency
+LOCATION:College Station ISD
+DESCRIPTION:The superintendent must certify compliance with Education Code provisions on instructional requirements and on diversity\, equity and inclusion duties no later than September 30. The board votes on the compliance report in September. Tracker BV-0188.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261026-bryan-bsc@brazosvalley
+DTSTAMP:20260830T120000Z
+DTSTART;TZID=America/Chicago:20261026T173000
+DTEND;TZID=America/Chicago:20261026T193000
+SUMMARY:Bryan Building and Standards Commission - next regular meeting
+LOCATION:Bryan Municipal Building Council Chambers\, 300 S. Texas Ave.\, Bryan
+DESCRIPTION:The commission's Aug. 24 agenda lists its next regular meeting as 5:30 p.m. Monday\, October 26\, 2026. Tracker BV-0181.
 END:VEVENT
 END:VCALENDAR
