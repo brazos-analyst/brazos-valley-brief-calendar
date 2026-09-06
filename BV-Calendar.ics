@@ -124,8 +124,8 @@ UID:bvbrief-20260830-bvgcd-dfc@brazosvalley
 DTSTAMP:20260823T120000Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-SUMMARY:Brazos Valley GCD - Desired Future Conditions public comment period closes
-DESCRIPTION:Close of the Brazos Valley Groundwater Conservation District public comment period on proposed desired future conditions. The district's own site describes a comment period commencing June 1\, 2026 and does not state an Aug. 31 close date\; the Aug. 31 date comes from prior news reporting. Confirm with the district before relying on it.
+SUMMARY:Brazos Valley GCD - desired future conditions public comment period (no closing date published)
+DESCRIPTION:The district states a 90-day public comment period that commenced June 1\, 2026 and publishes no closing date. A comment hearing was held August 13. Adoption of desired future conditions is not listed as an action item on the September 10 agenda.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260729-btd@brazosvalley
@@ -141,9 +141,9 @@ UID:bvbrief-20260902-tamus-regents@brazosvalley
 DTSTAMP:20260621T220000Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-SUMMARY:Texas A&M System Board of Regents regular meeting
+SUMMARY:Texas A&M System Board of Regents regular meeting (HELD)
 LOCATION:College Station
-DESCRIPTION:Regular meeting\; watch for RELLIS energy and capital items. Confidence: Official.
+DESCRIPTION:HELD 9/2-9/4 in College Station: approved an $11.755 million one-million-gallon water tower at the RELLIS Campus in Bryan\, certified a Senate Bill 37 core curriculum review\, appointed John A. Barton vice chancellor for business affairs\, committed up to $90 million over three years to the Hazlewood exemption\, and authorized up to $1.914 billion in FY2027 bond capacity. Tracker BV-0205 through BV-0208.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260626-bryancouncil-special@brazosvalley
@@ -522,27 +522,27 @@ UID:bvbrief-20260901-brazoscc-budgethearing@brazosvalley
 DTSTAMP:20260823T120000Z
 DTSTART;TZID=America/Chicago:20260901T083000
 DTEND;TZID=America/Chicago:20260901T091500
-SUMMARY:Brazos County Commissioners Court - FY2026-27 budget public hearing
+SUMMARY:Brazos County Commissioners Court - FY2026-27 budget public hearing (HELD)
 LOCATION:Brazos County Administration Building\, 200 S. Texas Ave.\, Bryan
-DESCRIPTION:Public hearing on the proposed $482\,336\,738 FY2026-27 county budget. Source: WTAW\, Aug. 18\, 2026. Tracker BV-0142.
+DESCRIPTION:HELD 9/1: hearing held at 8:30 a.m. ahead of the 10 a.m. regular session\, at which the court adopted a fiscal 2027 budget of $482\,336\,738 on a 4-1 vote. Tracker BV-0196.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260901-brazoscc-taxhearing@brazosvalley
 DTSTAMP:20260823T120000Z
 DTSTART;TZID=America/Chicago:20260901T091500
 DTEND;TZID=America/Chicago:20260901T100000
-SUMMARY:Brazos County Commissioners Court - 2026 tax rate public hearing
+SUMMARY:Brazos County Commissioners Court - 2026 tax rate public hearing (HELD)
 LOCATION:Brazos County Administration Building\, 200 S. Texas Ave.\, Bryan
-DESCRIPTION:Public hearing on the proposed 2026 tax increase\; proposed rate $0.448474 per $100 against a no-new-revenue rate of $0.414658. Source: county posted notice and agenda. Tracker BV-0142.
+DESCRIPTION:HELD 9/1: hearing held at 9:15 a.m. on the proposed $0.448474 rate. The court later adopted $0.443474\, above the no-new-revenue rate of $0.414658 and below the voter-approval rate of $0.455272. Tracker BV-0197.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260901-brazoscc-regular@brazosvalley
 DTSTAMP:20260823T120000Z
 DTSTART;TZID=America/Chicago:20260901T100000
 DTEND;TZID=America/Chicago:20260901T120000
-SUMMARY:Brazos County Commissioners Court - regular session (budget and tax rate adoption)
+SUMMARY:Brazos County Commissioners Court - regular session (HELD\, budget and rate adopted)
 LOCATION:Brazos County Administration Building\, 200 S. Texas Ave.\, Bryan
-DESCRIPTION:Regular session at which the FY2026-27 budget and the 2026 tax rate can be adopted. Source: WTAW\, Aug. 18\, 2026. Tracker BV-0142.
+DESCRIPTION:HELD 9/1: adopted the FY2027 budget 4-1 and a 2026 tax rate of $0.443474 per $100 3-2\, ratified the tax increase 3-2\, enacted a countywide burn ban\, established the county medical examiner office effective Oct. 1\, approved interlocals with Texas A&M and the City of Wixon Valley\, tabled RFP #26-088\, and approved a settlement in Cause No. 25-002851. Tracker BV-0196 through BV-0204.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260907-texasave-closure@brazosvalley
@@ -594,9 +594,9 @@ UID:bvbrief-20260903-bryan-pz@brazosvalley
 DTSTAMP:20260830T120000Z
 DTSTART;TZID=America/Chicago:20260903T170000
 DTEND;TZID=America/Chicago:20260903T190000
-SUMMARY:Bryan Planning and Zoning Commission - workshop and regular meeting
+SUMMARY:Bryan Planning and Zoning Commission - workshop and regular meeting (HELD)
 LOCATION:Bryan Municipal Building\, 300 S. Texas Ave.\, Bryan
-DESCRIPTION:Workshop and regular meetings listed on the City of Bryan meeting portal. Times shown are approximate\; confirm against the posted agenda. Tracker BV-0176.
+DESCRIPTION:HELD 9/3: recommended unanimously that 11.88 vacant acres off North Earl Rudder Freeway East and Clarks Lane be designated for future commercial development. Goes to the Bryan City Council Sept. 8. Tracker BV-0209.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260908-esd3-taxrate@brazosvalley
@@ -687,5 +687,50 @@ DTEND;TZID=America/Chicago:20261026T193000
 SUMMARY:Bryan Building and Standards Commission - next regular meeting
 LOCATION:Bryan Municipal Building Council Chambers\, 300 S. Texas Ave.\, Bryan
 DESCRIPTION:The commission's Aug. 24 agenda lists its next regular meeting as 5:30 p.m. Monday\, October 26\, 2026. Tracker BV-0181.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260903-brazoscc-pdboard@brazosvalley
+DTSTAMP:20260906T120000Z
+DTSTART;TZID=America/Chicago:20260903T140000
+DTEND;TZID=America/Chicago:20260903T150000
+SUMMARY:Brazos County Public Defender's Office Oversight Board (noticed)
+LOCATION:200 South Texas Avenue\, Suite 332\, Bryan
+DESCRIPTION:Noticed by the county for 2 p.m. Sept. 3. No record of what the board did has been posted.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260909-bvcog-board@brazosvalley
+DTSTAMP:20260906T120000Z
+DTSTART;TZID=America/Chicago:20260909T113000
+DTEND;TZID=America/Chicago:20260909T130000
+SUMMARY:Brazos Valley Council of Governments Board meeting
+LOCATION:BVCOG Board Room\, Center for Regional Services\, 3991 East 29th Street\, Bryan
+DESCRIPTION:Agenda posted through the county meeting portal. Confirm against the posted agenda before attending.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260910-blinn-taxhearing@brazosvalley
+DTSTAMP:20260906T120000Z
+DTSTART;TZID=America/Chicago:20260910T080000
+DTEND;TZID=America/Chicago:20260910T090000
+SUMMARY:Blinn College District - public hearing on the proposed 2026 tax rate
+LOCATION:Blinn Brenham Campus Administration Building\, 802 Green Street\, Brenham
+DESCRIPTION:Proposed rate $0.046800 per $100 against a no-new-revenue rate of $0.042653 and a voter-approval rate of $0.046857. Last year's adopted rate was $0.043800. The district states it is not required to hold an election. Tracker BV-0211.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260915-esd2-monthly@brazosvalley
+DTSTAMP:20260906T120000Z
+DTSTART;TZID=America/Chicago:20260915T183000
+DTEND;TZID=America/Chicago:20260915T193000
+SUMMARY:Brazos County Emergency Services District No. 2 - monthly meeting
+LOCATION:Brazos County ESD No. 2
+DESCRIPTION:The district has published no adopted 2026 rate figure. Its no-new-revenue rate is $0.023102 and its voter-approval rate is $0.023940.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261001-brazoscc-me-office@brazosvalley
+DTSTAMP:20260906T120000Z
+DTSTART;TZID=America/Chicago:20261001T080000
+DTEND;TZID=America/Chicago:20261001T090000
+SUMMARY:Brazos County Office of the Medical Examiner takes effect
+LOCATION:Brazos County
+DESCRIPTION:Commissioners adopted an order Sept. 1 establishing the office as of October 1\, 2026 at 8 a.m.\, and a separate order appointing the medical examiner. Tracker BV-0200.
 END:VEVENT
 END:VCALENDAR
