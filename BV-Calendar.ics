@@ -654,12 +654,12 @@ DESCRIPTION:The district proposed a total rate of $0.092029\, precisely its own 
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260924-cscouncil-basspro@brazosvalley
-DTSTAMP:20260830T120000Z
+DTSTAMP:20260927T100000Z
 DTSTART;TZID=America/Chicago:20260924T180000
 DTEND;TZID=America/Chicago:20260924T220000
-SUMMARY:College Station City Council - Bass Pro and Corinth Group agreements due back
+SUMMARY:College Station City Council - Midtown agreements and Flock renewal (HELD)
 LOCATION:City Hall Council Chambers\, 1101 Texas Ave.\, College Station
-DESCRIPTION:Council directed staff on Aug. 27 to bring the real estate contracts and economic development agreements with Bass Pro Shops and The Corinth Group back for a vote no later than this meeting\, with incentives made public beforehand. Tracker BV-0170.
+DESCRIPTION:Council approved unanimously the real estate contracts and Chapter 380 agreements with Bass Pro Outdoor World\, about 13.895 acres for about $5\,804\,497.30\, and The Corinth Group\, about 14.47 acres for about $5\,042\,505.60\, a combined sale of 28 acres for about $10.84 million. It approved unanimously a $12\,714\,696 amendment to the fiscal 2026 budget and a 13-item consent agenda including $10\,745\,275.41 for the new Northwest Substation. It renewed its Flock Group license plate reader agreements 4-2\, at ceilings of $158\,000 and $141\,061.80\, with Mark Smith and Bob Yancy against and Mayor John Nichols absent. The council next meets October 8.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260928-btu-board@brazosvalley
@@ -831,11 +831,11 @@ DESCRIPTION:Per the court September 15 notice: due to construction\, beginning M
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261008-bvgcd-board@brazosvalley
-DTSTAMP:20260913T100000Z
+DTSTAMP:20260927T100000Z
 DTSTART;TZID=America/Chicago:20261008T140000
-SUMMARY:Brazos Valley Groundwater Conservation District - next regular board meeting
+SUMMARY:Brazos Valley Groundwater Conservation District - next regular board meeting (not yet noticed)
 LOCATION:BVGCD office\, Hearne
-DESCRIPTION:The district September 10 agenda placed establishment of desired future conditions in executive session with possible action\; no outcome is posted. Tracker BV-0234.
+DESCRIPTION:The district's site posts a notice\, agenda and background material for its September 10 regular meeting and nothing for any later date\, so no notice for this meeting is posted as of September 27. The August 13 hearing on desired future conditions for all district aquifers has produced no posted outcome.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261012-txdot-i14@brazosvalley
@@ -863,51 +863,51 @@ DESCRIPTION:The court sent RFP #26-088 for grant writing back to committee\, a s
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260921-marion-pugh@brazosvalley
-DTSTAMP:20260920T100000Z
+DTSTAMP:20260927T100000Z
 DTSTART;VALUE=DATE:20260921
-SUMMARY:Marion Pugh Drive full closure begins in College Station
+SUMMARY:Marion Pugh Drive full closure begins in College Station (in effect)
 LOCATION:Marion Pugh Drive from the Stadium View southern exit to south of Luther Street\, College Station
-DESCRIPTION:Full closure for about two weeks while crews install water\, wastewater and storm crossings. Luther Street stays closed through Phase 3A\, now estimated at 10 to 12 weeks. Phase 3B follows on the east side for six to eight weeks with a single southbound lane open. The project is expected to finish in early January. Tracker BV-0257.
+DESCRIPTION:The closure took effect September 21\, from the Stadium View southern exit to south of Luther Street\, for about two weeks while crews install water\, wastewater and storm crossings. Luther Street stays closed through a phase the city now estimates at 10 to 12 weeks.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260921-btu-drone@brazosvalley
-DTSTAMP:20260920T100000Z
+DTSTAMP:20260927T100000Z
 DTSTART;VALUE=DATE:20260921
-SUMMARY:Bryan Texas Utilities aerial drone grid inspections begin
+SUMMARY:Bryan Texas Utilities aerial drone grid inspections (September 21 to 29)
 LOCATION:Brazos and Burleson counties
-DESCRIPTION:BTU and a contractor inspect transmission and distribution systems by drone through September 29 as preventive maintenance. No service disruptions are expected. Tracker BV-0258.
+DESCRIPTION:Preventive-maintenance drone inspections of BTU transmission and distribution systems across Brazos and Burleson counties\, running September 21 through September 29\, with no service disruptions expected.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260921-brazoscc-igc@brazosvalley
-DTSTAMP:20260920T100000Z
+DTSTAMP:20260927T100000Z
 DTSTART;TZID=America/Chicago:20260921T120000
-SUMMARY:Brazos County Intergovernmental Committee
+SUMMARY:Brazos County Intergovernmental Committee (HELD\; outcome not posted)
 LOCATION:Brazos County
-DESCRIPTION:Listed on the county PrimeGov public portal as an upcoming meeting.
+DESCRIPTION:Met at noon at the Brazos Valley Council of Governments Center for Regional Services. The posted notice listed only a call to order\, the committee meeting itself and adjournment. No minutes or outcome record has been posted.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260922-brazoscc-hfc@brazosvalley
-DTSTAMP:20260920T100000Z
+DTSTAMP:20260927T100000Z
 DTSTART;TZID=America/Chicago:20260922T100000
-SUMMARY:Brazos County Housing Finance Corporation
+SUMMARY:Brazos County Housing Finance Corporation (HELD\; outcome not posted)
 LOCATION:Brazos County
-DESCRIPTION:Listed on the county PrimeGov public portal as an upcoming meeting.
+DESCRIPTION:The posted agenda carried approval of minutes\, approval of the fiscal 2026-2027 budget\, a discussion and update on the Sandy Creek Apartments by Steve Harris\, and approval of a request for annual fees related to the Sandy Creek Apartment Project. No minutes or outcome record has been posted.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260923-brazoscc-juvenile@brazosvalley
-DTSTAMP:20260920T100000Z
+DTSTAMP:20260927T100000Z
 DTSTART;TZID=America/Chicago:20260923T120000
-SUMMARY:Brazos County Juvenile Board
+SUMMARY:Brazos County Juvenile Board (HELD\; outcome not posted)
 LOCATION:Brazos County
-DESCRIPTION:Listed on the county PrimeGov public portal as an upcoming meeting.
+DESCRIPTION:The posted agenda carried a director's report on facility statistics and audits\; discussion and approval of the fiscal 2027 Juvenile Services Department county budget\; Texas Juvenile Justice Department funding for 2026\; possible action on a contract with Burnet\, Blanco\, Llano\, San Saba and Gillespie counties to place their youth in the Brazos County Juvenile Detention Center\; the division of expenditure responsibility between the Commissioners Court and the board\; and the annual inspection and certification of the detention center. No minutes or outcome record has been posted.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260923-bcs-library@brazosvalley
-DTSTAMP:20260920T100000Z
+DTSTAMP:20260927T100000Z
 DTSTART;TZID=America/Chicago:20260923T160000
-SUMMARY:Bryan-College Station Library System Advisory Board
+SUMMARY:Bryan-College Station Library System Advisory Board (HELD\; outcome not posted)
 LOCATION:City of Bryan
-DESCRIPTION:Listed on the City of Bryan meeting portal as an upcoming meeting. Time to be confirmed against the posted agenda.
+DESCRIPTION:Listed on the City of Bryan meeting portal. No minutes or outcome record has been posted.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261007-mpo-policy@brazosvalley
@@ -972,5 +972,66 @@ DTSTART;VALUE=DATE:20261119
 SUMMARY:Brazos County Health District - Board of Health meeting
 LOCATION:Ken Bost Classroom\, 201 North Texas Avenue\, Bryan
 DESCRIPTION:The board next meeting after September 17\, per the September 17 agenda.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20260929-brazoscc-special@brazosvalley
+DTSTAMP:20260927T100000Z
+DTSTART;TZID=America/Chicago:20260929T100000
+DTEND;TZID=America/Chicago:20260929T130000
+SUMMARY:Brazos County Commissioners Court - Special Called Session
+LOCATION:Administration Building\, 200 South Texas Avenue\, Suite 106\, Bryan
+DESCRIPTION:Posted agenda carries payment of claims\; the fiscal 2027 through fiscal 2029 College Station and Brazos County interlocal agreement for emergency medical ambulance service\; an order designating the day of the week on which the court shall convene in a regular term\; fiscal 2025-26 budget amendments 26.01 through 26.09\; seven fiscal 2027 community support contracts\; and personnel changes of status for department heads. A closed session is noticed for economic development negotiations regarding a prospect in Precinct 2\, personnel matters covering six positions\, and deliberation on real property in Precinct 2.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261001-bryan-pz@brazosvalley
+DTSTAMP:20260927T100000Z
+DTSTART;TZID=America/Chicago:20261001T113000
+DTEND;TZID=America/Chicago:20261001T140000
+SUMMARY:Bryan Planning and Zoning Commission - workshop and regular meeting
+LOCATION:Bryan Municipal Building\, 300 South Texas Avenue\, Bryan
+DESCRIPTION:Next Bryan Planning and Zoning Commission workshop and regular meeting per the City of Bryan meeting portal. No agenda is posted as of September 27.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261008-cscouncil@brazosvalley
+DTSTAMP:20260927T100000Z
+DTSTART;TZID=America/Chicago:20261008T180000
+DTEND;TZID=America/Chicago:20261008T220000
+SUMMARY:College Station City Council - regular meeting
+LOCATION:City Hall Council Chambers\, 1101 Texas Ave.\, College Station
+DESCRIPTION:The council's next meeting\, announced at the close of its September 24 meeting.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261013-harvey-district@brazosvalley
+DTSTAMP:20260927T100000Z
+DTSTART;VALUE=DATE:20261013
+SUMMARY:Harvey District Plan community meeting - mobility and connectivity
+LOCATION:College Station
+DESCRIPTION:The next Harvey District Plan meeting following the city's September 22 Phase 2 community input summary\, focused on mobility and connectivity. Feedback continues at cstx.gov/HarveyRoad.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261015-brazoscad-board@brazosvalley
+DTSTAMP:20260927T100000Z
+DTSTART;TZID=America/Chicago:20261015T083000
+DTEND;TZID=America/Chicago:20261015T100000
+SUMMARY:Brazos Central Appraisal District - Board of Directors
+LOCATION:4051 Pendleton Drive\, Bryan
+DESCRIPTION:The board's next listed meeting. No agenda is posted as of September 27\, and no minutes have been posted for either the September 10 regular meeting or the September 14 special meeting.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261019-tceq-datacenter@brazosvalley
+DTSTAMP:20260927T100000Z
+DTSTART;VALUE=DATE:20261019
+SUMMARY:Deadline: TCEQ data center audit report due to the governor
+LOCATION:Texas
+DESCRIPTION:Governor Greg Abbott directed the Texas Commission on Environmental Quality on September 21 to halt new data center permits while ERCOT\, the Public Utility Commission and the Texas Water Development Board audit the industry's strain on the state power grid and water supply. The commission's report is due back to the governor's office on this date.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261026-btu-board@brazosvalley
+DTSTAMP:20260927T100000Z
+DTSTART;TZID=America/Chicago:20261026T160000
+DTEND;TZID=America/Chicago:20261026T180000
+SUMMARY:Bryan Texas Utilities Board of Directors - regular meeting
+LOCATION:BTU Administrative Conference Room\, 2611 N. Earl Rudder Fwy.\, Bryan
+DESCRIPTION:Next BTU board meeting after September 28\, per the City of Bryan meeting portal.
 END:VEVENT
 END:VCALENDAR
