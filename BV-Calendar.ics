@@ -823,21 +823,21 @@ DESCRIPTION:Listed on the City of Bryan meeting portal upcoming schedule.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261005-brazoscc-venue@brazosvalley
-DTSTAMP:20261004T110000Z
+DTSTAMP:20261011T110000Z
 DTSTART;TZID=America/Chicago:20261005T100000
 DTEND;TZID=America/Chicago:20261005T130000
-SUMMARY:Brazos County Commissioners Court - regular session\, first meeting at the Medical Examiner's Office
+SUMMARY:Brazos County Commissioners Court - regular session (HELD)
 LOCATION:Brazos County Medical Examiner's Office\, 3037 East 29th Street\, Bryan
-DESCRIPTION:10 a.m. Monday\, moved from Tuesday. Meetings are held here through the end of December because of construction at the Administration Building. Noticed agenda: presentations by the Greater Brazos Partnership on county growth and by Freese and Nichols on the subdivision regulations update\; a resolution on a Community Wildfire Protection Plan\; discussion and direction to Purchasing for grant writing\; personnel changes\; two community support contracts\; renewal of the county's self-funded health plans for 2027\; and a closed session on a contract being negotiated for Easterwood Airport. Noticed\, not decided.
+DESCRIPTION:Held 10 a.m. Monday\, October 5. Community Impact reports the court approved seven personnel changes and tabled an eighth\, with two approvals and the motion to table passing 4-1\; adopted a resolution on a Community Wildfire Protection Plan\; and took no action on the subdivision regulations update. WTAW reports County Judge Duane Peters announced he will retire after the December 1 meeting. KBTX reports the county burn ban was lifted by an order signed that day. The court posts no minutes\; the closed session on Easterwood Airport was not held\, per the county's recording.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261008-bvgcd-board@brazosvalley
-DTSTAMP:20261004T110000Z
+DTSTAMP:20261011T110000Z
 DTSTART;TZID=America/Chicago:20261008T140000
 DTEND;TZID=America/Chicago:20261008T160000
-SUMMARY:Brazos Valley Groundwater Conservation District - regular board meeting
+SUMMARY:Brazos Valley Groundwater Conservation District - regular board meeting (outcome not posted)
 LOCATION:District Office\, 112 W. 3rd Street\, Hearne
-DESCRIPTION:Noticed October 2 for 2 p.m. The agenda carries approval of the September 10 minutes\, the draft fiscal 2027 operating and capital budgets\, potential fiscal 2027 water production\, export and administrative fee schedules\, a drilling contractor for a grant-funded monitoring well\, and a closed session covering a pending federal lawsuit\, desired future conditions and well mitigation.
+DESCRIPTION:Noticed for 2 p.m. October 8. No minutes of this meeting are posted. The packet carries a draft fiscal 2027 operating budget of $2\,684\,719.66\, a committee recommendation to raise the export fee to $71.215 per acre-foot\, and a staff recommendation of Brien Water Wells at $183\,700 for a grant-funded monitoring well. The approved September 10 minutes\, signed October 8\, show the board did not adopt desired future conditions and delegated authority to its general manager at Groundwater Management Area 12.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261012-txdot-i14@brazosvalley
@@ -849,11 +849,11 @@ DESCRIPTION:Extended from September 10. More than 1\,300 people attended six ope
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261013-bryancouncil@brazosvalley
-DTSTAMP:20261004T110000Z
+DTSTAMP:20261011T110000Z
 DTSTART;TZID=America/Chicago:20261013T150000
 SUMMARY:Bryan City Council - workshop and both regular meetings
 LOCATION:Council Chambers\, Bryan Municipal Building\, 300 South Texas Avenue\, Bryan
-DESCRIPTION:The council's next regular cycle. No agenda is posted as of October 4. Community Impact reports the rezoning for condominiums at 3094 Club Drive in The Traditions\, on which the Planning and Zoning Commission denied a recommendation October 1\, will be presented at this meeting.
+DESCRIPTION:Agendas posted October 7. Workshop 2:45 p.m.\, first regular meeting 4 p.m.\, second regular meeting 5:30 p.m. Noticed: public hearings on three rezonings\, the largest 11.88 acres on the North Earl Rudder Freeway frontage road\; an Animal Center construction manager contract not to exceed $794\,235\; a traffic signal construction contract not to exceed $1\,329\,741.41\; a Waco Street design contract not to exceed $1\,460\,282\; funding agreements with the Greater Brazos Partnership and the Brazos Transit District\; and a closed session whose posted subjects include SMBG Bryan\, L.L.C. and the Texas Avenue medians charter amendment. The Traditions condominium rezoning the Planning and Zoning Commission voted to deny October 1 is not on the agendas.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260915-brazoscc-regular@brazosvalley
@@ -913,12 +913,12 @@ DESCRIPTION:Listed on the City of Bryan meeting portal. No minutes or outcome re
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261007-mpo-policy@brazosvalley
-DTSTAMP:20261004T110000Z
+DTSTAMP:20261011T110000Z
 DTSTART;TZID=America/Chicago:20261007T093000
 DTEND;TZID=America/Chicago:20261007T110000
-SUMMARY:Bryan-College Station Metropolitan Planning Organization - Policy Board
+SUMMARY:Bryan-College Station Metropolitan Planning Organization - Policy Board (no record found)
 LOCATION:2117 Nuches Lane\, Bryan
-DESCRIPTION:9:30 to 11 a.m. The agenda carries a staff report on State Highway 6 cost overruns\, action on Amendment Two to the fiscal 2026 to 2027 Unified Planning Work Program\, and a Texas Department of Transportation presentation on crash data and safety in Brazos County. Public comment on the amendment closes at 5 p.m. October 6.
+DESCRIPTION:Noticed for 9:30 a.m. October 7 at 2117 Nuches Lane\, Bryan: a staff report on State Highway 6 cost overruns\, action on Amendment Two to the work program\, and a state crash data presentation. As of October 11 no minutes or other record of the meeting is posted and the cost overruns attachment is not posted with the agenda. The next Policy Board meeting is listed for November 4.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261008-bryan-animal@brazosvalley
@@ -930,11 +930,11 @@ DESCRIPTION:Listed on the City of Bryan meeting portal as an upcoming meeting.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261015-mpo-tac@brazosvalley
-DTSTAMP:20260920T100000Z
+DTSTAMP:20261011T110000Z
 DTSTART;VALUE=DATE:20261015
 SUMMARY:Bryan-College Station Metropolitan Planning Organization - Technical Advisory Committee
-LOCATION:Bryan-College Station Metropolitan Planning Organization
-DESCRIPTION:The next Technical Advisory Committee meeting per the organization own calendar.
+LOCATION:Brazos Transit District\, 2117 Nuches Lane\, Bryan
+DESCRIPTION:9 a.m. to noon\, 2117 Nuches Lane\, Bryan. Agenda posted October 8: an amendment to the transportation improvement program adding $2\,000\,000 in federal funding for the Bush and Wellborn interchange\, a congestion management review\, and a Complete Streets Plan workshop.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261019-bryan-business@brazosvalley
@@ -996,12 +996,12 @@ DESCRIPTION:Workshop at 5 p.m. in Room 305\, regular meeting at 6 p.m. in Counci
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261008-cscouncil@brazosvalley
-DTSTAMP:20261004T110000Z
+DTSTAMP:20261011T110000Z
 DTSTART;TZID=America/Chicago:20261008T150000
 DTEND;TZID=America/Chicago:20261008T220000
-SUMMARY:College Station City Council - regular meeting
+SUMMARY:College Station City Council - meeting (HELD)
 LOCATION:City Hall Council Chambers\, 1101 Texas Ave.\, College Station
-DESCRIPTION:Agenda posted October 1. The meeting opens at 3 p.m. with the open session no earlier than 6 p.m. Noticed\, not decided: a transmission line contract with Integrated Power Co. not to exceed $5\,544\,279.91\; an Adamson Lagoon slide contract for a total appropriation of $2\,240\,700\; an as-needed electric boring contract not to exceed $500\,000\; and workshop discussions of a potential overlay district in the Northgate core\, a safe passing ordinance and cemetery fees.
+DESCRIPTION:Held October 8. The city's meeting blog reports the consent agenda was approved unanimously\, including a transmission line contract not to exceed $5\,544\,279.91\, and that the Adamson Lagoon slide contract was pulled. No vote was taken on a safe passing ordinance or a Northgate height overlay\; staff were directed to draft the first and return with the second paired with incentives. No action from executive session. The council next meets October 22.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261013-harvey-district@brazosvalley
@@ -1013,12 +1013,12 @@ DESCRIPTION:The next Harvey District Plan meeting following the city's September
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261015-brazoscad-board@brazosvalley
-DTSTAMP:20260927T100000Z
+DTSTAMP:20261011T110000Z
 DTSTART;TZID=America/Chicago:20261015T083000
 DTEND;TZID=America/Chicago:20261015T100000
 SUMMARY:Brazos Central Appraisal District - Board of Directors
 LOCATION:4051 Pendleton Drive\, Bryan
-DESCRIPTION:The board's next listed meeting. No agenda is posted as of September 27\, and no minutes have been posted for either the September 10 regular meeting or the September 14 special meeting.
+DESCRIPTION:8:30 a.m. Agenda posted October 9: third-quarter investment report\, proposed settlements of pending litigation\, an audit engagement letter\, and a discussion of additional staff and space needs. Minutes of the September 10 and September 14 meetings are not posted.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261019-tceq-datacenter@brazosvalley
@@ -1048,11 +1048,11 @@ DESCRIPTION:Held. Community Impact reports trustees approved the 2026-27 Distric
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261005-bryanisd-special@brazosvalley
-DTSTAMP:20261004T110000Z
+DTSTAMP:20261011T110000Z
 DTSTART;TZID=America/Chicago:20261005T180000
-SUMMARY:Bryan ISD Board of Trustees - special meeting
+SUMMARY:Bryan ISD Board of Trustees - special meeting (HELD)
 LOCATION:Boardroom\, 801 South Ennis Street\, Bryan
-DESCRIPTION:Noticed agenda: a Voter-Approval Tax Rate Election update\, a Merrill Green Fieldhouse design development update\, a finance committee report on the efficiency audit\, approval of the September 28 minutes and two purchases over $50\,000.
+DESCRIPTION:Held 6 p.m. October 5. Per the district's recording the board approved a Transfinder transportation software renewal at $60\,455 and a security camera storage purchase\, and approved the September 28 minutes\; it heard updates on the tax rate election\, the field house design and the efficiency audit with no vote. Minutes are not posted. The signed September 28 minutes show the 2027 benefits plan\, two schematic designs and the District Improvement Plan each approved 7-0.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261005-voter-registration@brazosvalley
@@ -1064,11 +1064,11 @@ DESCRIPTION:Per the Texas Secretary of State\, Monday\, October 5\, 2026 is the 
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261005-esd4-board@brazosvalley
-DTSTAMP:20261004T110000Z
+DTSTAMP:20261011T110000Z
 DTSTART;TZID=America/Chicago:20261005T174500
-SUMMARY:Brazos County Emergency Services District No. 4 - regular meeting
+SUMMARY:Brazos County Emergency Services District No. 4 - regular meeting (no record posted)
 LOCATION:Brazos County VFD Precinct 4\, Station 3\, 6357 Raymond Stotzer Parkway\, College Station
-DESCRIPTION:Noticed agenda includes district financial issues with the district's attorney\, the volunteer fire department's 2025-2026 financial review\, a nomination to fill a board vacancy and board officers for fiscal 2026-2027. Approval of the September 15 minutes\, which record the district's 2026 tax rate actions\, is also due.
+DESCRIPTION:Noticed for 5:45 p.m. October 5. As of October 11 the district has posted no minutes or other record of the meeting. The agenda carried district financial issues with the district's attorney\, the volunteer fire department's financial review\, a nomination to fill a board vacancy and board officers.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261008-esd2-special@brazosvalley
@@ -1106,11 +1106,11 @@ DESCRIPTION:6 to 8 p.m.\, per Community Impact\, for the district's two trustee 
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261015-bryan-pz-noon@brazosvalley
-DTSTAMP:20261004T110000Z
+DTSTAMP:20261011T110000Z
 DTSTART;TZID=America/Chicago:20261015T120000
 SUMMARY:Bryan Planning and Zoning Commission - noon regular meeting
 LOCATION:Council Chambers\, Bryan Municipal Building\, 300 South Texas Avenue\, Bryan
-DESCRIPTION:Listed on the commission's October 1 workshop agenda as an upcoming noon regular meeting. No agenda is posted as of October 4.
+DESCRIPTION:Noon\, Council Chambers. Agenda on the city's portal: consent only\, with the October 1 minutes\, a replat\, the Reveille Park Phase 2 final plat and a vacating plat. No rezonings. The October 1 draft minutes record a unanimous vote to deny rezoning RZ26-22 at 3094 Club Drive.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261019-early-voting@brazosvalley
@@ -1147,10 +1147,78 @@ DESCRIPTION:Per the Brazos County Elections Administration\, the last day to rec
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261031-burn-ban@brazosvalley
-DTSTAMP:20261004T110000Z
+DTSTAMP:20261011T110000Z
 DTSTART;VALUE=DATE:20261031
-SUMMARY:Brazos County burn ban order expires unless extended
+SUMMARY:Brazos County burn ban: lifted October 5 (this date no longer applies)
 LOCATION:Unincorporated Brazos County
-DESCRIPTION:The county's September 1 order prohibiting outdoor burning expires October 31\, 2026 unless the Commissioners Court extends it or ends it sooner\, or the county judge ends it sooner.
+DESCRIPTION:The county's September 1 order prohibiting outdoor burning was to expire October 31. KBTX reports the ban was lifted by an order signed October 5\, effective immediately.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261014-csisd-special@brazosvalley
+DTSTAMP:20261011T110000Z
+DTSTART;TZID=America/Chicago:20261014T190000
+DTEND;TZID=America/Chicago:20261014T210000
+SUMMARY:College Station ISD Board of Trustees - special meeting
+LOCATION:CSISD Central Training Room\, 1812 Welsh Avenue\, College Station
+DESCRIPTION:Noticed for 7 p.m. Closed session on the superintendent evaluation instrument\, with possible action in open session. The district says the meeting will not be livestreamed.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bvbrief-20261014-esd-openhouse@brazosvalley
+DTSTAMP:20261011T110000Z
+DTSTART;TZID=America/Chicago:20261014T180000
+DTEND;TZID=America/Chicago:20261014T200000
+SUMMARY:Brazos County emergency services districts and volunteer fire departments - community open house
+LOCATION:Brazos Center\, 3232 Briarcrest Drive\, Bryan
+DESCRIPTION:Emergency Services District No. 2 has posted notice that a quorum of its board may attend the 6 p.m. open house. The notice says no district business will be conducted and no action taken.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bvbrief-20261015-cs-pz@brazosvalley
+DTSTAMP:20261011T110000Z
+DTSTART;TZID=America/Chicago:20261015T180000
+DTEND;TZID=America/Chicago:20261015T210000
+SUMMARY:College Station Planning and Zoning Commission - regular meeting
+LOCATION:College Station City Hall\, 1101 Texas Avenue\, College Station
+DESCRIPTION:Noticed for 6 p.m.: a rezoning for the proposed Savannah Oaks planned development on approximately 1\,266.7 acres between the Pebble Creek and Southern Pointe subdivisions\, a related comprehensive plan amendment\, and a development code amendment defining data centers and allowing them as a conditional use in certain districts. The agenda says final action is to be considered by the City Council October 22\, subject to change.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bvbrief-20261019-bryanisd-board@brazosvalley
+DTSTAMP:20261011T110000Z
+DTSTART;TZID=America/Chicago:20261019T180000
+DTEND;TZID=America/Chicago:20261019T210000
+SUMMARY:Bryan ISD Board of Trustees - regular meeting
+LOCATION:801 South Ennis Street\, Bryan
+DESCRIPTION:Noticed October 9 for 6 p.m.: a public hearing on the district's financial accountability rating\, the efficiency review required as part of the tax rate election process\, and design development approval for the Merrill Green Stadium field house and video board.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bvbrief-20261022-cscouncil@brazosvalley
+DTSTAMP:20261011T110000Z
+DTSTART;TZID=America/Chicago:20261022T150000
+DTEND;TZID=America/Chicago:20261022T210000
+SUMMARY:College Station City Council - meeting
+LOCATION:College Station City Hall\, 1101 Texas Avenue\, College Station
+DESCRIPTION:Listed on the city's meeting portal\; no agenda is posted as of October 11. The Planning and Zoning Commission's October 15 agenda says final action on the Savannah Oaks rezoning and a data center code amendment is to be considered at this meeting\, subject to change.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bvbrief-20261104-mpo-policy@brazosvalley
+DTSTAMP:20261011T110000Z
+DTSTART;TZID=America/Chicago:20261104T093000
+DTEND;TZID=America/Chicago:20261104T110000
+SUMMARY:Bryan-College Station Metropolitan Planning Organization - Policy Board
+LOCATION:2117 Nuches Lane\, Bryan
+DESCRIPTION:Listed for 9:30 a.m. in the organization's October 15 Technical Advisory Committee agenda. No agenda is posted.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bvbrief-20261105-bryan-pz@brazosvalley
+DTSTAMP:20261011T110000Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Bryan Planning and Zoning Commission - regular meeting (Traditions Phase 19 rezoning postponed to this date)
+LOCATION:Bryan Municipal Building\, 300 South Texas Avenue\, Bryan
+DESCRIPTION:The commission's October 1 draft workshop minutes record that agenda item 3.A\, a rezoning on 23.82 acres in The Traditions\, Phase 19\, and 4.51 acres of vacant land was postponed to the November 5 regular meeting at the applicant's request. No agenda is posted.
 END:VEVENT
 END:VCALENDAR
