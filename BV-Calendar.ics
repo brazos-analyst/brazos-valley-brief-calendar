@@ -849,11 +849,17 @@ DESCRIPTION:Extended from September 10. More than 1\,300 people attended six ope
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261013-bryancouncil@brazosvalley
-DTSTAMP:20261011T110000Z
+DTSTAMP:20261018T110000Z
 DTSTART;TZID=America/Chicago:20261013T150000
-SUMMARY:Bryan City Council - workshop and both regular meetings
-LOCATION:Council Chambers\, Bryan Municipal Building\, 300 South Texas Avenue\, Bryan
-DESCRIPTION:Agendas posted October 7. Workshop 2:45 p.m.\, first regular meeting 4 p.m.\, second regular meeting 5:30 p.m. Noticed: public hearings on three rezonings\, the largest 11.88 acres on the North Earl Rudder Freeway frontage road\; an Animal Center construction manager contract not to exceed $794\,235\; a traffic signal construction contract not to exceed $1\,329\,741.41\; a Waco Street design contract not to exceed $1\,460\,282\; funding agreements with the Greater Brazos Partnership and the Brazos Transit District\; and a closed session whose posted subjects include SMBG Bryan\, L.L.C. and the Texas Avenue medians charter amendment. The Traditions condominium rezoning the Planning and Zoning Commission voted to deny October 1 is not on the agendas.
+SUMMARY:Bryan City Council - workshop and both regular meetings (HELD)
+LOCATION:Council Chambers\, Bryan Municipal Building\, 300 South Texas Aven
+ ue\, Bryan
+DESCRIPTION:The council released its outside counsel's opinion on the Texas
+  Avenue medians charter amendment and\, per Community Impact\, approved fu
+ nding agreements and contracts unanimously. The outcomes of three rezoning
+ s\, the Design Review Board ordinance\, an Animal Center lease ratificatio
+ n and traffic signal contracts are not yet on the record. Minutes not post
+ ed.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260915-brazoscc-regular@brazosvalley
@@ -946,11 +952,17 @@ DESCRIPTION:Listed on the City of Bryan meeting portal as an upcoming meeting.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261020-csisd-board@brazosvalley
-DTSTAMP:20260920T100000Z
+DTSTAMP:20261018T110000Z
 DTSTART;TZID=America/Chicago:20261020T190000
-SUMMARY:College Station ISD Board of Trustees - September 15 minutes expected
+SUMMARY:College Station ISD Board of Trustees - workshop and regular meetin
+ g
 LOCATION:CSISD Board Room\, 1812 Welsh Avenue\, College Station
-DESCRIPTION:The board takes up the September 15 minutes\, which are where the vote tallies behind the tax rate\, the central office guaranteed maximum price and the personnel action are expected to appear.
+DESCRIPTION:Workshop 5 p.m.\; regular meeting 7 p.m. Noticed: the 2026 tax 
+ levy of $154\,029\,193.18 at the adopted $0.9702 rate (the district's no-n
+ ew-revenue rate is $0.957456)\; September 15 minutes\; a custodial pay inc
+ rease\; cell signal work not to exceed $1\,550\,000\; materials testing $1
+ 62\,080\; possible action authorizing counsel on undelivered ballistic shi
+ elds.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261028-btd-board@brazosvalley
@@ -1131,11 +1143,18 @@ DESCRIPTION:6 to 8 p.m.\, free\, per Community Impact. The second of two Chamber
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261020-brazoscc@brazosvalley
-DTSTAMP:20261004T110000Z
+DTSTAMP:20261018T110000Z
 DTSTART;TZID=America/Chicago:20261020T100000
 SUMMARY:Brazos County Commissioners Court - regular session
-LOCATION:Brazos County Medical Examiner's Office\, 3037 East 29th Street\, Bryan
-DESCRIPTION:Listed in the county's October 1 announcement of meeting dates at the Medical Examiner's Office through December. No agenda is posted as of October 4.
+LOCATION:Brazos County Medical Examiner's Office\, 3037 East 29th Street\, 
+ Bryan
+DESCRIPTION:Agenda posted. Noticed: the 2026 tax levy at the adopted rate o
+ f $0.443474 per $100 (the county's no-new-revenue rate is $0.414658)\; a c
+ onstruction manager at risk contract with SpawGlass for the emergency comm
+ unications district dispatch center\; mutual termination of the EVAPCO Cha
+ pter 381 agreement\; approval of September minutes\; closed sessions on th
+ e Health District contract and the RELLIS data center tax abatement with T
+ hisWay Global.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261023-ballot-by-mail@brazosvalley
@@ -1155,54 +1174,61 @@ DESCRIPTION:The county's September 1 order prohibiting outdoor burning was to ex
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261014-csisd-special@brazosvalley
-DTSTAMP:20261011T110000Z
+DTSTAMP:20261018T110000Z
 DTSTART;TZID=America/Chicago:20261014T190000
-DTEND;TZID=America/Chicago:20261014T210000
-SUMMARY:College Station ISD Board of Trustees - special meeting
+SUMMARY:College Station ISD Board of Trustees - special meeting (HELD)
 LOCATION:CSISD Central Training Room\, 1812 Welsh Avenue\, College Station
-DESCRIPTION:Noticed for 7 p.m. Closed session on the superintendent evaluation instrument\, with possible action in open session. The district says the meeting will not be livestreamed.
+DESCRIPTION:On the district's recording\, the board approved minor revision
+ s to the superintendent evaluation instrument 6-0 with one trustee absent.
+  Minutes not posted.
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bvbrief-20261014-esd-openhouse@brazosvalley
-DTSTAMP:20261011T110000Z
+DTSTAMP:20261018T110000Z
 DTSTART;TZID=America/Chicago:20261014T180000
-DTEND;TZID=America/Chicago:20261014T200000
-SUMMARY:Brazos County emergency services districts and volunteer fire departments - community open house
+SUMMARY:Brazos County emergency services districts and volunteer fire depar
+ tments - community open house (HELD)
 LOCATION:Brazos Center\, 3232 Briarcrest Drive\, Bryan
-DESCRIPTION:Emergency Services District No. 2 has posted notice that a quorum of its board may attend the 6 p.m. open house. The notice says no district business will be conducted and no action taken.
+DESCRIPTION:Held per Community Impact\, which dates it October 13\; the cou
+ nty's September 29 draft minutes announced it for October 14 at the Brazos
+  Center. A community event\, not a board meeting.
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bvbrief-20261015-cs-pz@brazosvalley
-DTSTAMP:20261011T110000Z
+DTSTAMP:20261018T110000Z
 DTSTART;TZID=America/Chicago:20261015T180000
-DTEND;TZID=America/Chicago:20261015T210000
-SUMMARY:College Station Planning and Zoning Commission - regular meeting
+SUMMARY:College Station Planning and Zoning Commission - regular meeting (H
+ ELD)
 LOCATION:College Station City Hall\, 1101 Texas Avenue\, College Station
-DESCRIPTION:Noticed for 6 p.m.: a rezoning for the proposed Savannah Oaks planned development on approximately 1\,266.7 acres between the Pebble Creek and Southern Pointe subdivisions\, a related comprehensive plan amendment\, and a development code amendment defining data centers and allowing them as a conditional use in certain districts. The agenda says final action is to be considered by the City Council October 22\, subject to change.
+DESCRIPTION:On the city's recording\, the commission recommended approval o
+ f the Savannah Oaks rezoning and plan amendment and of a data center condi
+ tional use amendment\, each called unanimous\, and approved Rock Prairie s
+ tudent housing waivers 3-2. Council action is noticed for October 22. Minu
+ tes not posted.
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bvbrief-20261019-bryanisd-board@brazosvalley
-DTSTAMP:20261011T110000Z
+DTSTAMP:20261018T110000Z
 DTSTART;TZID=America/Chicago:20261019T180000
-DTEND;TZID=America/Chicago:20261019T210000
 SUMMARY:Bryan ISD Board of Trustees - regular meeting
 LOCATION:801 South Ennis Street\, Bryan
-DESCRIPTION:Noticed October 9 for 6 p.m.: a public hearing on the district's financial accountability rating\, the efficiency review required as part of the tax rate election process\, and design development approval for the Merrill Green Stadium field house and video board.
+DESCRIPTION:6 p.m. Noticed: a hearing on the district's financial accountab
+ ility rating\; the efficiency review the agenda ties to the tax rate elect
+ ion\; design development approvals for the Merrill Green Stadium field hou
+ se and scoreboard.
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bvbrief-20261022-cscouncil@brazosvalley
-DTSTAMP:20261011T110000Z
+DTSTAMP:20261018T110000Z
 DTSTART;TZID=America/Chicago:20261022T150000
-DTEND;TZID=America/Chicago:20261022T210000
-SUMMARY:College Station City Council - meeting
+SUMMARY:College Station City Council - regular meeting
 LOCATION:College Station City Hall\, 1101 Texas Avenue\, College Station
-DESCRIPTION:Listed on the city's meeting portal\; no agenda is posted as of October 11. The Planning and Zoning Commission's October 15 agenda says final action on the Savannah Oaks rezoning and a data center code amendment is to be considered at this meeting\, subject to change.
+DESCRIPTION:Closed session 3 p.m.\; open meeting no earlier than 6 p.m. Ame
+ nded agenda posted October 15. Noticed: public hearings and action on Sava
+ nnah Oaks\, the data center amendment\, the parks master plan and drive-th
+ rough standards\; consent contracts totaling $14\,644\,510 and $13\,587\,9
+ 55.05 with contingencies.
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bvbrief-20261104-mpo-policy@brazosvalley
 DTSTAMP:20261011T110000Z
@@ -1212,7 +1238,6 @@ SUMMARY:Bryan-College Station Metropolitan Planning Organization - Policy Board
 LOCATION:2117 Nuches Lane\, Bryan
 DESCRIPTION:Listed for 9:30 a.m. in the organization's October 15 Technical Advisory Committee agenda. No agenda is posted.
 END:VEVENT
-
 BEGIN:VEVENT
 UID:bvbrief-20261105-bryan-pz@brazosvalley
 DTSTAMP:20261011T110000Z
@@ -1220,5 +1245,112 @@ DTSTART;VALUE=DATE:20261105
 SUMMARY:Bryan Planning and Zoning Commission - regular meeting (Traditions Phase 19 rezoning postponed to this date)
 LOCATION:Bryan Municipal Building\, 300 South Texas Avenue\, Bryan
 DESCRIPTION:The commission's October 1 draft workshop minutes record that agenda item 3.A\, a rezoning on 23.82 acres in The Traditions\, Phase 19\, and 4.51 acres of vacant land was postponed to the November 5 regular meeting at the applicant's request. No agenda is posted.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261019-igc@brazosvalley
+DTSTAMP:20261018T110000Z
+DTSTART;TZID=America/Chicago:20261019T120000
+SUMMARY:Brazos County Intergovernmental Committee
+LOCATION:BVCOG Center for Regional Services Board Room\, 3991 East 29th Str
+ eet\, Bryan
+DESCRIPTION:Noticed: presentations on the Brazos Valley Solid Waste Managem
+ ent Agency and the Bryan-College Station library system.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261019-esd2@brazosvalley
+DTSTAMP:20261018T110000Z
+DTSTART;TZID=America/Chicago:20261019T183000
+SUMMARY:Brazos County Emergency Services District No. 2 - regular meeting
+LOCATION:Zion Kurten Church\, 977 North FM 2038\, Bryan
+DESCRIPTION:Noticed: approval of the 2026 tax levy\, minutes of three earli
+ er meetings and appointments. The district's certified no-new-revenue rate
+  is $0.023102.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261020-racc-workshop@brazosvalley
+DTSTAMP:20261018T110000Z
+DTSTART;TZID=America/Chicago:20261020T090000
+SUMMARY:Research AI Compute Center workshop - possible Commissioners Court 
+ quorum
+LOCATION:Hagler Auditorium\, Annenberg Presidential Conference Center\, 100
+ 2 George Bush Drive West\, College Station
+DESCRIPTION:9 a.m. to 2 p.m. The county's notice says no formal action or d
+ eliberation will be taken.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261020-blinn@brazosvalley
+DTSTAMP:20261018T110000Z
+DTSTART;TZID=America/Chicago:20261020T100000
+SUMMARY:Blinn College District Board of Trustees - regular meeting
+LOCATION:Administration Building Board Room\, 802 Green Street\, Brenham
+DESCRIPTION:Noticed: a delinquent-tax collection contract and a new associa
+ te degree in sport management.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261020-cs-tm@brazosvalley
+DTSTAMP:20261018T110000Z
+DTSTART;TZID=America/Chicago:20261020T153000
+SUMMARY:College Station Council Transportation and Mobility Committee
+LOCATION:City Hall\, Bush 4141 Room\, 1101 Texas Avenue\, College Station
+DESCRIPTION:Noticed: a presentation on the University Drive and College Ave
+ nue Complete Streets project.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261020-sh30-openhouse@brazosvalley
+DTSTAMP:20261018T110000Z
+DTSTART;TZID=America/Chicago:20261020T170000
+SUMMARY:TxDOT State Highway 30 (Harvey Road) open house and virtual hearing
+LOCATION:Meyer Senior and Community Center\, 2275 Dartmouth Street\, Colleg
+ e Station
+DESCRIPTION:5 to 7 p.m. The department will present a roundabout corridor p
+ lan from Associates Avenue to FM 158. Comments due November 4.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261020-wsud@brazosvalley
+DTSTAMP:20261018T110000Z
+DTSTART;TZID=America/Chicago:20261020T170000
+SUMMARY:Wellborn Special Utility District - regular board meeting
+LOCATION:6784 Victoria Avenue\, College Station
+DESCRIPTION:Agenda header 5 p.m. with open session no earlier than 6 p.m.\;
+  a district alert says 6 p.m. Noticed: impact fee update proposals\, a lan
+ downer damage claim and construction progress payments.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261020-esd3@brazosvalley
+DTSTAMP:20261018T110000Z
+DTSTART;TZID=America/Chicago:20261020T180000
+SUMMARY:Brazos County Emergency Services District No. 3 - monthly meeting
+LOCATION:Precinct 3 Fire Department Station 2\, 5725 Elmo Weedon Road\, Col
+ lege Station
+DESCRIPTION:Noticed: the 2026 tax levy and a matter including possibly call
+ ing an election on the district's maximum tax rate.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261023-boh-special@brazosvalley
+DTSTAMP:20261018T110000Z
+DTSTART;TZID=America/Chicago:20261023T090000
+SUMMARY:Brazos County Board of Health - special meeting
+LOCATION:201 North Texas Avenue\, Ken Bost Classroom\, Bryan
+DESCRIPTION:Noticed: a $75\,000 contingency transfer for interim human reso
+ urces support at the request of Brazos County\, and a consulting agreement.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261104-sh30-comments@brazosvalley
+DTSTAMP:20261018T110000Z
+DTSTART;VALUE=DATE:20261104
+SUMMARY:Deadline: comments on the TxDOT State Highway 30 (Harvey Road) corr
+ idor plan
+LOCATION:Texas Department of Transportation\, Bryan District
+DESCRIPTION:Comments on the roundabout corridor plan presented October 20 a
+ re due November 4.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261105-cs-pz@brazosvalley
+DTSTAMP:20261018T110000Z
+DTSTART;TZID=America/Chicago:20261105T180000
+SUMMARY:College Station Planning and Zoning Commission - regular meeting
+LOCATION:City Hall Council Chambers\, 1101 Texas Avenue\, College Station
+DESCRIPTION:Listed on the commission's meeting calendar in its October 15 a
+ genda. No agenda posted.
 END:VEVENT
 END:VCALENDAR
