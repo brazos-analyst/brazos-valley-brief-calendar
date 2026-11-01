@@ -475,11 +475,11 @@ DESCRIPTION:HELD. The council took the FIRST reading only of an ordinance propos
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261103-uniform-election@brazosvalley
-DTSTAMP:20260816T220000Z
+DTSTAMP:20261101T110000Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:November 3 uniform election - Brazos Valley items
-DESCRIPTION:Ballot includes the Bryan ISD VATRE (2-cent M&O increase)\; the City of Bryan charter amendment on Texas Avenue median removal\; the Bryan general municipal election (Mayor\, SMD 1 & 2)\; and the College Station general and special election (Mayor\, Places 1 & 2\, and the Place 5 unexpired term). Tracker BV-0128/BV-0130/BV-0137. Confidence: Reported.
+SUMMARY:November 3 election - Brazos Valley items
+DESCRIPTION:Polls 7 a.m. to 7 p.m. at any county vote center. College Heights Assembly of God\, 4100 Old College Road\, will not open\; the county names Legends Event Center\, 2533 Midtown Park Blvd.\, Bryan\, as the nearest site. On the ballot: Bryan ISD Proposition A ($0.9668 per $100\; no-new-revenue rate $0.948318)\, a City of Bryan charter amendment on the Texas Avenue medians\, and city\, school and county races.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260825-bryancouncil-budget@brazosvalley
@@ -681,10 +681,10 @@ DESCRIPTION:The superintendent must certify compliance with Education Code provi
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261026-bryan-bsc@brazosvalley
-DTSTAMP:20261025T110000Z
+DTSTAMP:20261101T110000Z
 DTSTART;TZID=America/Chicago:20261026T173000
 DTEND;TZID=America/Chicago:20261026T193000
-SUMMARY:Bryan Building and Standards Commission
+SUMMARY:Bryan Building and Standards Commission (no outcome found)
 LOCATION:Bryan Municipal Building Council Chambers\, 300 South Texas Avenue\, Bryan
 DESCRIPTION:5:30 p.m.\, Council Chambers. Noticed: unsafe-building hearings on 200 Rebecca Street\, 2814 Cypress Bend Circle\, 108 North Reed Avenue #A and 1410 South Texas Avenue.
 END:VEVENT
@@ -960,9 +960,9 @@ DESCRIPTION:Held October 20. On the district's recording the board passed its co
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261028-btd-board@brazosvalley
-DTSTAMP:20261025T110000Z
+DTSTAMP:20261101T110000Z
 DTSTART;VALUE=DATE:20261028
-SUMMARY:Brazos Transit District Board of Directors
+SUMMARY:Brazos Transit District Board of Directors (no outcome found)
 LOCATION:Brazos Transit District\, 2117 Nuches Lane\, Bryan
 DESCRIPTION:10:30 a.m. Noticed: a closed session on personnel with possible action\, July 29 minutes\, financial reports\, fiscal 2027 board meeting dates\, a board member replacement and the CEO update.
 END:VEVENT
@@ -1036,12 +1036,12 @@ DESCRIPTION:Governor Greg Abbott directed the Texas Commission on Environmental 
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261026-btu-board@brazosvalley
-DTSTAMP:20261025T110000Z
+DTSTAMP:20261101T110000Z
 DTSTART;TZID=America/Chicago:20261026T160000
 DTEND;TZID=America/Chicago:20261026T180000
-SUMMARY:Bryan Texas Utilities Board of Directors
+SUMMARY:Bryan Texas Utilities Board of Directors (no outcome found)
 LOCATION:BTU\, 2611 North Earl Rudder Freeway\, Bryan
-DESCRIPTION:4 p.m.\, 2611 North Earl Rudder Freeway. Noticed: approval of the September 28 minutes\; engineering for a RELLIS switching station customer interconnection\, not to exceed $469\,565\; four fiscal 2027 underground and capital contracts\; and a closed session on Capps v. City of Bryan and pole attachment rental rates.
+DESCRIPTION:4 p.m. Noticed: September 28 minutes\, RELLIS switching station engineering not to exceed $469\,565\, five fiscal 2027 contracts and a closed session. No outcome found as of November 1.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20260928-bryanisd-board@brazosvalley
@@ -1211,20 +1211,21 @@ DESCRIPTION:Held October 22. On the city's recording and live blog: the Savannah
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261104-mpo-policy@brazosvalley
-DTSTAMP:20261011T110000Z
+DTSTAMP:20261101T110000Z
 DTSTART;TZID=America/Chicago:20261104T093000
 DTEND;TZID=America/Chicago:20261104T110000
 SUMMARY:Bryan-College Station Metropolitan Planning Organization - Policy Board
 LOCATION:2117 Nuches Lane\, Bryan
-DESCRIPTION:Listed for 9:30 a.m. in the organization's October 15 Technical Advisory Committee agenda. No agenda is posted.
+DESCRIPTION:9:30 a.m. Noticed: transportation improvement program amendment\, Bush/Wellborn interchange funding and letting year\, executive director search update.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261105-bryan-pz@brazosvalley
-DTSTAMP:20261011T110000Z
-DTSTART;VALUE=DATE:20261105
-SUMMARY:Bryan Planning and Zoning Commission - regular meeting (Traditions Phase 19 rezoning postponed to this date)
-LOCATION:Bryan Municipal Building\, 300 South Texas Avenue\, Bryan
-DESCRIPTION:The commission's October 1 draft workshop minutes record that agenda item 3.A\, a rezoning on 23.82 acres in The Traditions\, Phase 19\, and 4.51 acres of vacant land was postponed to the November 5 regular meeting at the applicant's request. No agenda is posted.
+DTSTAMP:20261101T110000Z
+DTSTART;TZID=America/Chicago:20261105T180000
+DTEND;TZID=America/Chicago:20261105T200000
+SUMMARY:Bryan Planning and Zoning Commission - regular meeting
+LOCATION:Council Chambers\, Bryan Municipal Building\, 300 South Texas Avenue\, Bryan
+DESCRIPTION:6 p.m. Noticed: three replats\, Stella Ranch plats\, a conditional use permit and a setback variance. The Traditions Phase 19 rezoning\, postponed in October to this date\, is not on this agenda.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261019-igc@brazosvalley
@@ -1316,39 +1317,39 @@ DESCRIPTION:Comments on the roundabout corridor plan presented October 20 a
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261105-cs-pz@brazosvalley
-DTSTAMP:20261018T110000Z
+DTSTAMP:20261101T110000Z
 DTSTART;TZID=America/Chicago:20261105T180000
+DTEND;TZID=America/Chicago:20261105T200000
 SUMMARY:College Station Planning and Zoning Commission - regular meeting
 LOCATION:City Hall Council Chambers\, 1101 Texas Avenue\, College Station
-DESCRIPTION:Listed on the commission's meeting calendar in its October 15 a
- genda. No agenda posted.
+DESCRIPTION:6 p.m. Noticed: rezoning about 10 acres at 2201 Earl Rudder Freeway South\; comprehensive plan annual review\; Harvey District Plan information item.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261026-cs-audit@brazosvalley
-DTSTAMP:20261025T110000Z
+DTSTAMP:20261101T110000Z
 DTSTART;TZID=America/Chicago:20261026T150000
 DTEND;TZID=America/Chicago:20261026T163000
-SUMMARY:College Station City Council Audit Committee
+SUMMARY:College Station City Council Audit Committee (no outcome found)
 LOCATION:College Station City Hall\, 1101 Texas Avenue\, College Station
 DESCRIPTION:3 p.m. Noticed: the 2026 citywide risk assessment\, fiscal 2027 audit selection\, revisions to the fraud response plan\, a proposed ethics response plan and revisions to the code section creating the committee.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:bvbrief-20261028-cs-hpac@brazosvalley
-DTSTAMP:20261025T110000Z
+DTSTAMP:20261101T110000Z
 DTSTART;TZID=America/Chicago:20261028T160000
 DTEND;TZID=America/Chicago:20261028T173000
-SUMMARY:College Station Housing Plan Advisory Committee
+SUMMARY:College Station Housing Plan Advisory Committee (no outcome found)
 LOCATION:College Station City Hall\, 1101 Texas Avenue\, College Station
 DESCRIPTION:4 p.m. Noticed: the city-initiated middle housing rezonings and public engagement feedback\, and a Housing Action Plan existing conditions report.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:bvbrief-20261028-tamus-fpc@brazosvalley
-DTSTAMP:20261025T110000Z
+DTSTAMP:20261101T110000Z
 DTSTART;TZID=America/Chicago:20261028T103000
 DTEND;TZID=America/Chicago:20261028T120000
-SUMMARY:Texas A&M System Regents - Committee on Facilities Planning and Construction
+SUMMARY:Texas A&M System Regents - Committee on Facilities Planning and Construction (no outcome found)
 LOCATION:Board of Regents Annex\, 100 Gene Stallings Boulevard\, College Station
 DESCRIPTION:10:30 a.m. Noticed: a ground lease of about 5.04 acres in Brazos County\, a state easement for an expanded U-turn on Texas Avenue at North Rosemary Drive\, and the Texas A&M Semiconductor Institute project in Bryan.
 END:VEVENT
@@ -1375,30 +1376,31 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:bvbrief-20261103-brazoscc@brazosvalley
-DTSTAMP:20261025T110000Z
-DTSTART;VALUE=DATE:20261103
-SUMMARY:Brazos County Commissioners Court - regular meeting (on the schedule)
+DTSTAMP:20261101T110000Z
+DTSTART;TZID=America/Chicago:20261103T100000
+DTEND;TZID=America/Chicago:20261103T120000
+SUMMARY:Brazos County Commissioners Court - regular meeting
 LOCATION:Brazos County Medical Examiner's Office\, 3037 East 29th Street\, Bryan
-DESCRIPTION:Listed on the court's fiscal 2027 meeting schedule. No agenda posted as of October 25.
+DESCRIPTION:10 a.m. Noticed: amended Local Provider Participation Fund orders\, a wire of up to $11\,000\,000 for a state hospital payment program\, two prosecutor salary items\, a chiller and a boiler replacement.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:bvbrief-20261112-bvgcd-hearings@brazosvalley
-DTSTAMP:20261025T110000Z
+DTSTAMP:20261101T110000Z
 DTSTART;TZID=America/Chicago:20261112T140000
 DTEND;TZID=America/Chicago:20261112T160000
-SUMMARY:Brazos Valley Groundwater Conservation District - export fee and permit hearings
+SUMMARY:Brazos Valley Groundwater Conservation District - export fee and permit hearings\, regular meeting
 LOCATION:District Office\, 112 West 3rd Street\, Hearne
-DESCRIPTION:2 p.m. Noticed: a public hearing on fiscal 2027 export fees\, with written comments accepted beforehand\, and a permit hearing on two Robertson County wells in the Brazos River Alluvium.
+DESCRIPTION:2 p.m. Noticed: fiscal 2027 export fee hearing\, with no amounts in the notice\; permit hearing on lengthening two Robertson County permits from one year to five. Regular meeting listed\; no agenda posted.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:bvbrief-20261116-cscouncil@brazosvalley
-DTSTAMP:20261025T110000Z
-DTSTART;VALUE=DATE:20261116
-SUMMARY:College Station City Council - meeting (per the city's blog)
+DTSTAMP:20261101T110000Z
+DTSTART;TZID=America/Chicago:20261116T180000
+SUMMARY:College Station City Council - meeting
 LOCATION:College Station City Hall\, 1101 Texas Avenue\, College Station
-DESCRIPTION:The city's October 22 meeting blog gives this as the council's next meeting. No agenda posted as of October 25.
+DESCRIPTION:Open meeting 6 p.m.\, per the November 5 Planning and Zoning agenda. No agenda posted as of November 1.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1408,5 +1410,78 @@ DTSTART;VALUE=DATE:20261117
 SUMMARY:College Station ISD Board of Trustees - workshop and regular meeting
 LOCATION:1812 Welsh Avenue\, College Station
 DESCRIPTION:Listed on the district's meeting page. No agenda posted as of October 25.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261102-bisd-special@brazosvalley
+DTSTAMP:20261101T110000Z
+DTSTART;TZID=America/Chicago:20261102T180000
+DTEND;TZID=America/Chicago:20261102T200000
+SUMMARY:Bryan ISD Board of Trustees - special meeting
+LOCATION:Boardroom\, 801 South Ennis Street\, Bryan
+DESCRIPTION:6 p.m. Noticed: resolution on the 2026 assessed value and levy\, with no figure or rate stated (Proposition A $0.9668\; no-new-revenue rate $0.948318)\; sale of 711 North Houston Avenue after a closed session\; election update.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261109-gma12@brazosvalley
+DTSTAMP:20261101T110000Z
+DTSTART;TZID=America/Chicago:20261109T110000
+DTEND;TZID=America/Chicago:20261109T130000
+SUMMARY:Groundwater Management Area 12 - joint planning meeting
+LOCATION:Post Oak Savannah GCD Offices\, 310 East Ave. C\, Milano
+DESCRIPTION:11 a.m. Noticed: possible action on desired future conditions for its aquifers. The Brazos Valley district is a member.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261110-mpo-public@brazosvalley
+DTSTAMP:20261101T110000Z
+DTSTART;TZID=America/Chicago:20261110T163000
+DTEND;TZID=America/Chicago:20261110T183000
+SUMMARY:University Drive and South College Avenue public meeting
+LOCATION:Legends Event Center\, 2533 Midtown Park Blvd.\, Bryan
+DESCRIPTION:Per KBTX\, 4:30 to 6:30 p.m. The planning organization agenda confirms a November 10 public meeting at Legends.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261111-tamus-regents@brazosvalley
+DTSTAMP:20261101T110000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261114
+SUMMARY:Texas A&M System Board of Regents - committee and regular meetings
+LOCATION:College Station
+DESCRIPTION:Listed November 11 to 13. No agenda posted as of November 1. A committee agenda calls a Brazos County ground lease\, a Texas Avenue easement and the Semiconductor Institute project proposed for action.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261116-btu-board@brazosvalley
+DTSTAMP:20261101T110000Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Bryan Texas Utilities Board of Directors
+DESCRIPTION:Listed on the City of Bryan meeting portal. No agenda posted as of November 1.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261117-brazoscc@brazosvalley
+DTSTAMP:20261101T110000Z
+DTSTART;TZID=America/Chicago:20261117T100000
+SUMMARY:Brazos County Commissioners Court - regular meeting
+DESCRIPTION:On the fiscal 2027 schedule\, 10 a.m. No agenda posted as of November 1.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261117-esd2@brazosvalley
+DTSTAMP:20261101T110000Z
+DTSTART;TZID=America/Chicago:20261117T183000
+DTEND;TZID=America/Chicago:20261117T193000
+SUMMARY:Brazos County Emergency Services District No. 2 - monthly meeting
+DESCRIPTION:Per the district home page calendar. No agenda posted as of November 1.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261117-blinn@brazosvalley
+DTSTAMP:20261101T110000Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Blinn College District Board of Trustees - regular meeting
+DESCRIPTION:Listed on the trustees page. No agenda posted as of November 1.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261123-cscouncil@brazosvalley
+DTSTAMP:20261101T110000Z
+DTSTART;TZID=America/Chicago:20261123T180000
+SUMMARY:College Station City Council - meeting
+LOCATION:College Station City Hall\, 1101 Texas Avenue\, College Station
+DESCRIPTION:Open meeting 6 p.m.\, per the November 5 Planning and Zoning agenda. No agenda posted as of November 1.
 END:VEVENT
 END:VCALENDAR
