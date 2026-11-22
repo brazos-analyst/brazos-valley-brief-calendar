@@ -968,11 +968,12 @@ DESCRIPTION:10:30 a.m. Noticed: a closed session on personnel with possible acti
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261117-bryancouncil@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;TZID=America/Chicago:20261117T150000
 SUMMARY:Bryan City Council - workshop and both regular meetings
 LOCATION:Bryan Municipal Building\, 300 South Texas Avenue\, Bryan (Room 305 and Council Chambers)
-DESCRIPTION:Workshop 3:00 p.m.\; First Regular 3:45 p.m. (Room 305 and Council Chambers)\; Second Regular 5:30 p.m. (Council Chambers)\, per the posted agendas. Noticed: canvass resolution and oaths\; December 12 District 2 runoff order\; City Hall reimbursement resolution up to $8\,500\,000\; final 2026 tax roll\, total tax levy $68\,747\,072 (no rate stated)\; Cimarron Chapter 380 first amendment.
+DESCRIPTION:Held. The city says Mayor Bobby Gutierrez and District 1 Councilmember Paul Torres were sworn in for second terms. WTAW reports the canvass\, the City Hall reimbursement resolution up to $8\,500\,000 and a unanimous consent agenda\; no minutes found on the city's meeting portal as of November 22. The county levy totals attached to the tax roll item print a rate of 0.6240000 (no-new-revenue rate $0.672321 per the city's certified worksheet).
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261119-bchd-boh@brazosvalley
@@ -1381,28 +1382,31 @@ DESCRIPTION:Held. Approved by voice vote: the hospital fund rule and amended rat
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261112-bvgcd-hearings@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;TZID=America/Chicago:20261112T140000
 DTEND;TZID=America/Chicago:20261112T160000
 SUMMARY:Brazos Valley Groundwater Conservation District - export fee and permit hearings\, regular meeting
 LOCATION:District Office\, 112 West 3rd Street\, Hearne
-DESCRIPTION:2 p.m. The posted packet carries proposals only: a proposed fiscal 2027 budget revised to $2\,505\,819.66\; Tier 2 export fees up "by the statutory limit of 3.00%"\; the General Manager recommends approving the Muse operating permit amendments (permit term one year to five). No minutes or adopted documents were found on the district's file listings as of November 15.
+DESCRIPTION:Held. The district posted "Approved FY 2027 Operating & Capital Budgets - November 12\, 2026" on November 17\, totaling $2\,505\,819.66. No minutes\, fee schedule or signed permit amendment found on its file listings as of November 22.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261116-cscouncil@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;TZID=America/Chicago:20261116T150000
 SUMMARY:College Station City Council - meeting
 LOCATION:College Station City Hall\, 1101 Texas Avenue\, College Station
-DESCRIPTION:Regular open meeting no earlier than 6 p.m.\, per the agenda\; the agenda convenes at 3 p.m. with the canvass\, oaths and an executive session. Noticed: canvass ordinance and oaths for the mayor and Place 2\; December 12 runoff ordinance for Places 1 and 5\; 2026 property tax roll item\, $85\,622\,040.58\; Adamson Lagoon slides $678\,500\; The Station Baseball economic development agreement workshop.
+DESCRIPTION:Held. Draft minutes (on the November 23 consent agenda): canvass ordinance adopted\, recorded six for and none opposed (the city's live blog reports 5-0)\; oaths for Mayor Bob Yancy and Place 2 Councilmember Chandler Arden\; December 12 runoff for Places 1 and 5 ordered on consent\; 2026 property tax roll $85\,622\,040.58 approved on consent 5-0 (rate $0.5302540 adopted August 27\; no-new-revenue rate $0.506934 per the city's certified worksheet)\; Adamson Lagoon slides $678\,500\, Southside parking removal and a Pebble Bend easement abandonment each 5-0\; The Station Baseball workshop\, no vote.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261117-csisd-board@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;TZID=America/Chicago:20261117T170000
 SUMMARY:College Station ISD Board of Trustees - workshop and regular meeting
 LOCATION:1812 Welsh Avenue\, College Station
-DESCRIPTION:Workshop 5 p.m.\; regular meeting 7 p.m. Noticed: oaths for Place 6 (Michelle Gallagher) and Place 7 (Heather Simmen)\; school buses $1\,490\,021 (the agenda says six buses\; the attached memo says nine).
+DESCRIPTION:Held. The district says Michelle Gallagher and Heather Simmen were sworn in and Kimberly McAdams\, Chris Field and Mike Martindale elected officers\; KBTX reports each officer vote was 4-3 and that the board approved nine buses\; the agenda item lists six at $1\,490\,021 and the district's staff memo lists nine at the same total. No minutes found on the district's board agendas page as of November 22.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261102-bisd-special@brazosvalley
@@ -1433,53 +1437,59 @@ DESCRIPTION:Held\, per Community Impact. KBTX reported six possible crossing loc
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261111-tamus-regents@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261113
 SUMMARY:Texas A&M System Board of Regents - committee and regular meetings
 LOCATION:College Station
-DESCRIPTION:Held November 11 and 12. The System says the regents approved a RELLIS water well and storage system\, appropriating $14.2 million. No outcome found for the 5.0411-acre ground lease or the Texas Avenue U-turn easement. A November 13 session could not be confirmed.
+DESCRIPTION:Held November 11 and 12. The System's approved-items list (last modified November 18) includes authority to negotiate and execute a ground lease on about 5.0411 acres in Brazos County\, a conditional roadway easement to TxDOT for an expanded U-turn on Texas Avenue at North Rosemary Drive\, and the Center for the Study of War and Society. No 2026 minutes found on the regents' minutes page as of November 22.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261116-btu-board@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;TZID=America/Chicago:20261116T160000
 SUMMARY:Bryan Texas Utilities Board of Directors
 LOCATION:2611 N. Earl Rudder Freeway\, Bryan
-DESCRIPTION:4 p.m. Noticed: five Altec digger derricks\, total $1\,816\,715\; SynchroGrid engineering not to exceed $231\,400\; easement releases.
+DESCRIPTION:4 p.m. Noticed: five Altec digger trucks\, total $1\,816\,715\; SynchroGrid engineering not to exceed $231\,400. No outcome found as of November 22.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261117-brazoscc@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;TZID=America/Chicago:20261117T100000
 SUMMARY:Brazos County Commissioners Court - regular meeting
 LOCATION:Brazos County Medical Examiner's Office\, 3037 East 29th Street\, Bryan
-DESCRIPTION:10 a.m. Noticed: County Judge Duane Peters' retirement and resignation\, effective December 1\; action to fill the County Judge vacancy effective December 2\; assignment of the Second Amendment to the RELLIS Campus Data and Research Center tax abatement (the other parties are ThisWay Global\, Inc. and its wholly owned subsidiary RACC DC 1\, LLC)\; October 5 and October 20 minutes.
+DESCRIPTION:Held. Community Impact reports the court accepted Judge Duane Peters' retirement (effective December 1) and approved County Judge-elect Kyle Kacal to serve the rest of the term from December 2\, and approved the Powers Brown change order ($108\,233.26) 4-1. No minutes found on the county's meeting portal as of November 22.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261117-esd2@brazosvalley
-DTSTAMP:20261108T110000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;TZID=America/Chicago:20261116T183000
 DTEND;TZID=America/Chicago:20261116T193000
 SUMMARY:Brazos County Emergency Services District No. 2 - regular meeting (Monday\, November 16)
 LOCATION:Zion Kurten Church\, 977 N. FM 2038\, Bryan
-DESCRIPTION:Moved: the posted agenda sets Monday\, November 16\, 6:30 p.m. Noticed: October 19 minutes\, a $8\,787.20 headset system for Engine 221\, commissioner terms and vacancies.
+DESCRIPTION:Monday\, November 16\, 6:30 p.m. Noticed: October 19 minutes\, a $8\,787.20 headset system for Engine 221\, commissioner terms and vacancies. No minutes found on the district's minutes listing as of November 22.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261117-blinn@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;TZID=America/Chicago:20261117T100000
 SUMMARY:Blinn College District Board of Trustees - regular meeting
 LOCATION:Board Room\, Third Floor\, Administration Building\, 802 Green Street\, Brenham
-DESCRIPTION:10 a.m. Noticed: grounds maintenance contract for the Brenham campus\, a Technical Theater degree\, legislative priorities and sports complex naming rights. No Bryan item.
+DESCRIPTION:Held. Blinn says trustees approved an Associate of Science in Technical Theatre and adopted legislative priorities. No Bryan item.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261123-cscouncil@brazosvalley
-DTSTAMP:20261115T120000Z
-DTSTART;TZID=America/Chicago:20261123T180000
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
+DTSTART;TZID=America/Chicago:20261123T160000
 SUMMARY:College Station City Council - meeting
 LOCATION:College Station City Hall\, 1101 Texas Avenue\, College Station
-DESCRIPTION:Open meeting 6 p.m.\, per the November 19 Planning and Zoning agenda. The city says formal consideration of The Station Baseball economic development agreement is scheduled for this meeting. No agenda was found on the city's meeting listing as of November 15.
+DESCRIPTION:Executive session 4 p.m.\; open meeting no earlier than 6 p.m.\, per the agenda posted November 17. Noticed: The Station Baseball development agreement (staff recommends approval)\; Middle Housing workshop (staff recommends pausing the initiative)\; Veterans Park turf $1\,394\,959.50 and a Northgate safety study not to exceed $250\,000 on consent\; Mayor Pro Tem election\; rezoning hearing for about 10 acres at 2201 Earl Rudder Freeway South.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261112-bisd-canvass@brazosvalley
@@ -1502,11 +1512,12 @@ STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261212-runoffs@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Runoff election - College Station Places 1 and 5\, Bryan District 2
-DESCRIPTION:College Station Places 1 and 5 (Mark Smith and Howard Mayne\; Tre Watson and Padon Holt\, per WTAW) and Bryan District 2 (Chrissy Ransome and Jeannette Stewart Moseley\, per the City of Bryan). Early voting November 30 to December 8\, per WTAW. The councils are set to order the runoffs November 16 (College Station) and November 17 (Bryan).
+DESCRIPTION:7 a.m. to 7 p.m. Bryan District 2 (Chrissy Ransome and Jeannette Stewart Moseley\, per KBTX)\; College Station Place 1 (Mark Smith and Howard Mayne) and Place 5 (Tre Watson and Padon Holt). Vote centers: Election Administrator's Office (Ruth McLeod Training Room)\, College Station Utilities Meeting and Training Facility\, and College Station City Hall (Bush 4141 Room).
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261109-bryan-bbc@brazosvalley
@@ -1544,34 +1555,38 @@ DESCRIPTION:11 a.m. Noticed: an order canvassing the November 3 trustee election
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261116-bisd@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;TZID=America/Chicago:20261116T180000
 SUMMARY:Bryan ISD Board of Trustees - regular meeting
-DESCRIPTION:6 p.m. Noticed: Re-Adoption of the 2026 Tax Rate (no rate printed on the agenda\; no-new-revenue rate\, per the district's certified worksheet\, $0.948318)\; annual audit\; 2025 bond design contracts\; board officer nominees.
+DESCRIPTION:Held. Signed resolution re-adopts the 2026 rate at a total of $0.9468 ($0.6768 maintenance and operations\, $0.2700 debt)\, below the no-new-revenue rate of $0.948318 per the district's certified worksheet. Staff slides: earlier adopted total $0.9668\; corrected statements and refunds to be issued. No minutes found on the district's BoardBook pages as of November 22.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261117-wellborn@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;TZID=America/Chicago:20261117T180000
 SUMMARY:Wellborn Special Utility District - board regular meeting
 LOCATION:6784 Victoria Avenue\, College Station
-DESCRIPTION:6 p.m. Noticed: proposed 2027 budget (total proposed revenue $16\,754\,475.00)\; impact fee items\; progress estimates. The district states it does not levy property taxes.
+DESCRIPTION:6 p.m. Noticed: proposed 2027 budget\; impact fee items\; progress estimates. No minutes or adopted budget posted as of November 22\; next regular meeting December 15. The district states it does not levy ad valorem property taxes.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261117-esd3@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;TZID=America/Chicago:20261117T180000
 SUMMARY:Brazos County Emergency Services District No. 3 - monthly meeting
 LOCATION:Precinct 3 Fire Department Station 2\, 5725 Elmo Weedon\, College Station
-DESCRIPTION:6 p.m. Noticed: Touchstone District Services community outreach\, including matters related to possibly calling an election on the district's maximum tax rate (no rate stated\; no-new-revenue rate\, per the district's certified worksheet\, $0.024269)\; part-time media representative.
+DESCRIPTION:6 p.m. Noticed: Touchstone District Services community outreach\, including matters related to possibly calling an election on the district's maximum tax rate (no-new-revenue rate $0.024269 per the district's certified worksheet). No minutes found on the district's website as of November 22.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261117-bcd@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;TZID=America/Chicago:20261117T151500
 SUMMARY:Bryan Commerce and Development - board meeting
 LOCATION:Bryan Municipal Building\, Room 305\, 300 South Texas Avenue\, Bryan
-DESCRIPTION:3:15 p.m. Noticed: Lero and Associates consulting agreement\, not to exceed $61\,000.
+DESCRIPTION:3:15 p.m. Noticed: Lero and Associates consulting agreement\, not to exceed $61\,000. No outcome found as of November 22.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261118-coa-blinn@brazosvalley
@@ -1592,41 +1607,46 @@ DESCRIPTION:6 to 8 p.m.\, per KBTX\; Community Impact confirms the date and venu
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261119-brazoscad@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;TZID=America/Chicago:20261119T083000
 SUMMARY:Brazos Central Appraisal District - Board of Directors
 LOCATION:4051 Pendleton Drive\, Bryan
-DESCRIPTION:8:30 a.m. Noticed: proposed 2027 entity allotments\; settlements of pending litigation\; Appraisal Review Board appointments.
+DESCRIPTION:8:30 a.m. Noticed: proposed 2027 entity allotments\; settlements\; Appraisal Review Board appointments. No outcome found as of November 22. October 15 minutes were signed as approved November 19.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261119-mpo-tac@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;TZID=America/Chicago:20261119T090000
 SUMMARY:Bryan-College Station Metropolitan Planning Organization - Technical Advisory Committee
 LOCATION:Zoom
-DESCRIPTION:9 a.m.\, by Zoom. Noticed: election of chair and vice-chair\; staff report.
+DESCRIPTION:9 a.m.\, by Zoom. Noticed: election of chair and vice-chair\; staff report. No minutes found on the organization's agenda center as of November 22. The staff report says there is no December meeting of the committee.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261119-bryan-pz@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;TZID=America/Chicago:20261119T120000
 SUMMARY:Bryan Planning and Zoning Commission
-DESCRIPTION:Noon. Noticed: November 5 minutes\; final plats FP26-23 and FP25-48\; right-of-way abandonments RA26-04 and RA26-06.
+DESCRIPTION:Noon. Noticed: final plats FP26-23 (Carrabba Industrial Park Phase 10B) and FP25-48\; right-of-way abandonments RA26-04 and RA26-06. No outcome found as of November 22.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261119-cs-pz@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;TZID=America/Chicago:20261119T180000
 SUMMARY:College Station Planning and Zoning Commission
-DESCRIPTION:6 p.m. Noticed: College Station West preliminary plan\; Grove/Highlands rezoning\; home occupation amendment\; a parking plan appeal.
+DESCRIPTION:6 p.m. Noticed: College Station West preliminary plan\; Grove/Highlands rezoning (final council action noted for December 10\, subject to change)\; home occupation amendment\; a parking plan appeal at 200 Marion Pugh Drive. No outcome found as of November 22.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261130-early-voting@brazosvalley
-DTSTAMP:20261115T120000Z
+DTSTAMP:20261122T120000Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261209
 SUMMARY:Early voting - December 12 runoffs
-DESCRIPTION:November 30 to December 8\, per WTAW.
+DESCRIPTION:Per the City of Bryan's notice for the District 2 runoff\; College Station's runoff ordinance lists the same dates and hours. Weekdays only: November 30 to December 4\, 8 a.m. to 5 p.m.\; December 7 and 8\, 7 a.m. to 7 p.m. Sites: Election Administrator's Office (Ruth McLeod Training Room\, 300 East William Joel Bryan Parkway\, Bryan) and College Station Utilities Meeting and Training Facility (1603 Graham Road). Mail ballot applications must be received by 5 p.m. December 1.
 END:VEVENT
 BEGIN:VEVENT
 UID:bvbrief-20261202-mpo-policy@brazosvalley
@@ -1665,5 +1685,115 @@ DTSTAMP:20261115T120000Z
 DTSTART;TZID=America/Chicago:20270111T174500
 SUMMARY:Brazos County Emergency Services District No. 4 - regular board meeting
 DESCRIPTION:5:45 p.m.\, per the November 2 minutes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261123-cs-library@brazosvalley
+DTSTAMP:20261122T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261123T133000
+SUMMARY:College Station City Council - special meeting (library tour)
+LOCATION:Larry J. Ringer Library\, College Station
+DESCRIPTION:1:30 p.m. Noticed: presentation\, discussion and tour of the Larry J. Ringer Library.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261124-bryan-bbc@brazosvalley
+DTSTAMP:20261122T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261124T120000
+SUMMARY:Bryan Business Council - special meeting
+LOCATION:Bryan Municipal Building\, Conference Room 305\, 300 South Texas Avenue\, Bryan
+DESCRIPTION:Noon. Noticed: executive session\; a letter of intent from a prospective purchaser for land at 8460 John Sharp Parkway\; October financials and November 9 minutes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261124-hacb@brazosvalley
+DTSTAMP:20261122T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261124T120000
+SUMMARY:Housing Authority of the City of Bryan - board meeting
+LOCATION:1306 Beck Street\, Bryan
+DESCRIPTION:Noon\, per the city portal listing. Agenda file not opened.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261201-mail-ballot@brazosvalley
+DTSTAMP:20261122T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Deadline - mail ballot applications for the December 12 runoffs
+DESCRIPTION:Applications must be received by 5 p.m.\, addressed to the Brazos County Election Administrator's Office\, 300 East William Joel Bryan Parkway\, Bryan. Per the City of Bryan's notice for the District 2 runoff.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261201-blinn-bafc@brazosvalley
+DTSTAMP:20261122T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/Chicago:20261201T100000
+SUMMARY:Blinn College District - Budget\, Audit\, Investment\, and Finance Committee
+LOCATION:Third Floor\, Administration Building\, 802 Green Street\, Brenham
+DESCRIPTION:10 a.m. Noticed: Annual Comprehensive Financial Report.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261201-brazoscc@brazosvalley
+DTSTAMP:20261122T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Brazos County Commissioners Court - regular meeting (date per news\; not confirmed)
+DESCRIPTION:Community Impact reports Judge Duane Peters' last day presiding is December 1. No agenda posted as of November 22\; time not confirmed.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261203-bryan-pz@brazosvalley
+DTSTAMP:20261122T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Bryan Planning and Zoning Commission - evening regular meeting
+DESCRIPTION:Listed as an upcoming evening regular meeting ("5/6pm") on the November 19 agenda. No agenda posted as of November 22.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261204-harvey-survey@brazosvalley
+DTSTAMP:20261122T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:College Station Harvey District survey closes
+DESCRIPTION:Per the city: the survey on three Harvey District scenarios closes December 4.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261210-cscouncil@brazosvalley
+DTSTAMP:20261122T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:College Station City Council - meeting
+DESCRIPTION:Named on the November 19 Planning and Zoning agenda for final action on the Grove/Highlands rezoning\, subject to change. No agenda posted as of November 22\; time not confirmed.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261215-wellborn@brazosvalley
+DTSTAMP:20261122T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Wellborn Special Utility District - regular board meeting
+DESCRIPTION:Listed on the district's board meetings page. No agenda posted as of November 22\; time not confirmed.
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261215-brazoscc@brazosvalley
+DTSTAMP:20261122T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Brazos County Commissioners Court - meeting (date per news\; not confirmed)
+DESCRIPTION:Community Impact reports County Judge Kyle Kacal will lead his first meeting December 15. No agenda posted as of November 22.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bvbrief-20261221-cs-oaths@brazosvalley
+DTSTAMP:20261122T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:College Station runoff winners take oaths
+DESCRIPTION:Per the city: Places 1 and 5 runoff winners will be sworn in December 21. Time and place not stated.
 END:VEVENT
 END:VCALENDAR
